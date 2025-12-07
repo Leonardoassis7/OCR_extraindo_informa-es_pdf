@@ -1,0 +1,3634 @@
+<?xml version="1.0" ?>
+<lista_de_para_barueri>
+  <meta>
+    <pdf>ANEXO_III_Lista_DE-PARA.pdf</pdf>
+    <total_codigos>906</total_codigos>
+    <used_ocr>false</used_ocr>
+  </meta>
+  <novo_codigos>
+    <item>
+      <codigo>01.01.01.110</codigo>
+      <linha_original>010101115 ANALISTA DE SISTEMAS 01.01.01.110 Análise e desenvolvimento de sistemas.</linha_original>
+    </item>
+    <item>
+      <codigo>01.02.01.220</codigo>
+      <linha_original>010201212 PROGRAMAÇÃO 01.02.01.220 Programação.</linha_original>
+    </item>
+    <item>
+      <codigo>01.02.01.110</codigo>
+      <linha_original>010201114 PROGRAMADOR 01.02.01.110 Programação.</linha_original>
+    </item>
+    <item>
+      <codigo>01.03.01.220</codigo>
+      <linha_original>010301211 PROCESSAMENTO DE DADOS 01.03.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>01.06.01.220</codigo>
+      <linha_original>010601218 ASSESSORIA EM INFORMÁTICA 01.06.01.220 Assessoria e consultoria em informática.</linha_original>
+    </item>
+    <item>
+      <codigo>01.06.01.220</codigo>
+      <linha_original>010602217 CONSULTORIA EM INFORMÁTICA 01.06.01.220 Assessoria e consultoria em informática.</linha_original>
+    </item>
+    <item>
+      <codigo>01.07.01.220</codigo>
+      <linha_original>010701217 SUPORTE TÉCNICO EM INFORMÁTICA 01.07.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>01.07.01.111</codigo>
+      <linha_original>010301113 OPERADOR DE COMPUTADOR 01.07.01.111</linha_original>
+    </item>
+    <item>
+      <codigo>02.01.01.220</codigo>
+      <linha_original>020105218 PESQUISA E DESENVOLVIMENTO 02.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>03.03.01.220</codigo>
+      <linha_original>030301219 EXPLORAÇÃO DE SALÕES DE FESTAS 03.03.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>03.03.01.220</codigo>
+      <linha_original>030304216 EXPLORAÇÃO DE STANDS 03.03.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>03.03.03.220</codigo>
+      <linha_original>030305215 EXPLORAÇÃO DE QUADRAS ESPORTIVAS 03.03.03.220</linha_original>
+    </item>
+    <item>
+      <codigo>03.03.03.220</codigo>
+      <linha_original>030306214 EXPLORAÇÃO DE ESTÁDIOS E GINÁSIOS 03.03.03.220</linha_original>
+    </item>
+    <item>
+      <codigo>03.03.04.220</codigo>
+      <linha_original>030307213 EXPLORAÇÃO DE CASAS DE ESPETÁCULOS 03.03.04.220</linha_original>
+    </item>
+    <item>
+      <codigo>03.03.05.220</codigo>
+      <linha_original>030308212 EXPLORAÇÃO DE PARQUES DE DIVERSÕES 03.03.05.220 congêneres, para realização de eventos ou</linha_original>
+    </item>
+    <item>
+      <codigo>03.05.01.210</codigo>
+      <linha_original>030601216 LOCADOR DE ANDAIMES 03.05.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>03.05.01.210</codigo>
+      <linha_original>030702214 OUTRAS ESTRUTURAS DE USO 03.05.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.220</codigo>
+      <linha_original>040117212 MEDICINA 04.01.01.220 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.220</codigo>
+      <linha_original>040118211 RADIOLOGIA 04.01.01.220 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.220</codigo>
+      <linha_original>040123214 GINECOLOGIA 04.01.01.220 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.220</codigo>
+      <linha_original>040124213 PEDIATRIA 04.01.01.220 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.220</codigo>
+      <linha_original>040125212 GERIATRIA 04.01.01.220 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.220</codigo>
+      <linha_original>040126211 PSIQUIATRIA 04.01.01.220 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.220</codigo>
+      <linha_original>040127211 CARDIOLOGIA 04.01.01.220 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.220</codigo>
+      <linha_original>040128219 NEUROLOGIA 04.01.01.220 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.220</codigo>
+      <linha_original>040129218 OTORRINOLARINGOLOGIA 04.01.01.220 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.220</codigo>
+      <linha_original>040130215 OFTALMOLOGIA 04.01.01.220 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.220</codigo>
+      <linha_original>040131214 CIRURGIA 04.01.01.220 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.220</codigo>
+      <linha_original>040132213 CIRURGIA PLÁSTICA 04.01.01.220 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.220</codigo>
+      <linha_original>040133212 ANESTESIA 04.01.01.220 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.220</codigo>
+      <linha_original>040134211 MEDICINA DO TRABALHO 04.01.01.220 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.220</codigo>
+      <linha_original>040803211 ORTOPEDIA 04.01.01.220 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.110</codigo>
+      <linha_original>040106117 GERIATRA 04.01.01.110 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.210</codigo>
+      <linha_original>040106215 PSIQUIATRIA (SOCIEDADE PROFISSIONAL) 04.01.01.210 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.110</codigo>
+      <linha_original>040107116 PSIQUIATRA 04.01.01.110 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.210</codigo>
+      <linha_original>040107214 CARDIOLOGIA (SOCIEDADE PROFISSIONAL) 04.01.01.210 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.110</codigo>
+      <linha_original>040108115 CARDIOLOGISTA 04.01.01.110 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.210</codigo>
+      <linha_original>040108213 NEUROLOGIA (SOCIEDADE PROFISSIONAL) 04.01.01.210 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.110</codigo>
+      <linha_original>040109114 NEUROLOGISTA 04.01.01.110 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.110</codigo>
+      <linha_original>040110111 OTORRINOLARINGOLOGISTA 04.01.01.110 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.110</codigo>
+      <linha_original>040111111 OFTALMOLOGISTA 04.01.01.110 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.210</codigo>
+      <linha_original>040111218 CIRURGIA (SOCIEDADE PROFISSIONAL) 04.01.01.210 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.110</codigo>
+      <linha_original>040113118 CIRURGIÃO 04.01.01.110 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.110</codigo>
+      <linha_original>040114117 CIRURGIÃO PLÁSTICO 04.01.01.110 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.210</codigo>
+      <linha_original>040114215 ANESTESIA (SOCIEDADE PROFISSIONAL) 04.01.01.210 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.110</codigo>
+      <linha_original>040115116 MÉDICO DO TRABALHO 04.01.01.110 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.110</codigo>
+      <linha_original>040116115 MÉDICO LEGISTA 04.01.01.110 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.110</codigo>
+      <linha_original>040117114 ANESTESISTA 04.01.01.110 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.110</codigo>
+      <linha_original>040804112 ORTOPEDISTA 04.01.01.110 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.210</codigo>
+      <linha_original>040807217 ORTOPEDIA (SOCIEDADE PROFISSIONAL) 04.01.01.210 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.110</codigo>
+      <linha_original>040101112 MÉDICO 04.01.01.110 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.210</codigo>
+      <linha_original>040101211 MEDICINA (SOCIEDADE PROFISSIONAL) 04.01.01.210 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.110</codigo>
+      <linha_original>040103111 CLÍNICO GERAL 04.01.01.110 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.210</codigo>
+      <linha_original>040103218 GINECOLOGIA (SOCIEDADE PROFISSIONAL) 04.01.01.210 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.110</codigo>
+      <linha_original>040104119 GINECOLOGISTA 04.01.01.110 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.210</codigo>
+      <linha_original>040104217 PEDIATRIA (SOCIEDADE PROFISSIONAL) 04.01.01.210 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.110</codigo>
+      <linha_original>040105118 PEDIATRA 04.01.01.110 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.01.210</codigo>
+      <linha_original>040105216 GERIATRIA (SOCIEDADE PROFISSIONAL) 04.01.01.210 Medicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.02.220</codigo>
+      <linha_original>040122215 BIOMEDICINA 04.01.02.220 Biomedicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.02.110</codigo>
+      <linha_original>040102111 BIOMÉDICO 04.01.02.110 Biomedicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.01.02.210</codigo>
+      <linha_original>040102219 BIOMEDICINA (SOCIEDADE PROFISSIONAL) 04.01.02.210 Biomedicina.</linha_original>
+    </item>
+    <item>
+      <codigo>04.02.01.111</codigo>
+      <linha_original>040204118 ANÁLISE CLINICA (AUTÔNOMO) 04.02.01.111 Análises clínicas e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>04.02.01.110</codigo>
+      <linha_original>040207115 TÉCNICO EM ANÁLISE CLINICA 04.02.01.110 Análises clínicas e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>04.02.02.220</codigo>
+      <linha_original>040211217 PATOLOGIA 04.02.02.220 Patologia e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>04.02.02.110</codigo>
+      <linha_original>040201111 PATOLOGISTA 04.02.02.110 Patologia e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>04.02.02.210</codigo>
+      <linha_original>040201219 PATOLOGIA (SOCIEDADE PROFISSIONAL) 04.02.02.210 Patologia e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>04.02.03.220</codigo>
+      <linha_original>040214214 ELETRICIDADE MÉDICA 04.02.03.220 nervos e musculos, cardioversão, etc) e</linha_original>
+    </item>
+    <item>
+      <codigo>04.02.03.110</codigo>
+      <linha_original>040208114 TÉCNICO EM ELETRICIDADE MÉDICA 04.02.03.110 nervos e musculos, cardioversão, etc) e</linha_original>
+    </item>
+    <item>
+      <codigo>04.02.04.220</codigo>
+      <linha_original>040215213 RADIOTERAPIA 04.02.04.220 Radioterapia, quimioterapia e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>04.02.04.220</codigo>
+      <linha_original>040216212 QUIMIOTERAPIA 04.02.04.220 Radioterapia, quimioterapia e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>04.02.04.110</codigo>
+      <linha_original>040202111 RADIOTERAPÊUTICA 04.02.04.110 Radioterapia, quimioterapia e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>04.02.04.110</codigo>
+      <linha_original>040203119 QUIMIOTERAPEUTA 04.02.04.110 Radioterapia, quimioterapia e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>04.02.05.220</codigo>
+      <linha_original>040119211 ABREUGRAFIA 04.02.05.220</linha_original>
+    </item>
+    <item>
+      <codigo>04.02.05.220</codigo>
+      <linha_original>040213215 TOMOGRAFIA 04.02.05.220</linha_original>
+    </item>
+    <item>
+      <codigo>04.02.05.110</codigo>
+      <linha_original>040205117 RADIOLOGISTA 04.02.05.110</linha_original>
+    </item>
+    <item>
+      <codigo>04.02.05.110</codigo>
+      <linha_original>040206116 TÉCNICO EM RAIO X 04.02.05.110</linha_original>
+    </item>
+    <item>
+      <codigo>04.02.05.210</codigo>
+      <linha_original>040207213 RADIOLOGIA (SOCIEDADE PROFISSIONAL) 04.02.05.210</linha_original>
+    </item>
+    <item>
+      <codigo>04.02.05.210</codigo>
+      <linha_original>040208212 TOMOGRAFIA (SOCIEDADE PROFISSIONAL) 04.02.05.210</linha_original>
+    </item>
+    <item>
+      <codigo>04.03.01.220</codigo>
+      <linha_original>040301218 HOSPITAL 04.03.01.220 Hospitais e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>04.03.02.220</codigo>
+      <linha_original>040310217 LABORATÓRIO DE ANALISES CLÍNICAS 04.03.02.220 Laboratórios e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>04.03.03.220</codigo>
+      <linha_original>040302217 CLINICA MEDICA 04.03.03.220 saúde, prontos-socorros, ambulatórios e</linha_original>
+    </item>
+    <item>
+      <codigo>04.03.03.220</codigo>
+      <linha_original>040303216 MANICOMIOS 04.03.03.220 saúde, prontos-socorros, ambulatórios e</linha_original>
+    </item>
+    <item>
+      <codigo>04.03.03.220</codigo>
+      <linha_original>040304215 CASAS DE SAÚDE 04.03.03.220 saúde, prontos-socorros, ambulatórios e</linha_original>
+    </item>
+    <item>
+      <codigo>04.03.03.220</codigo>
+      <linha_original>040305214 PRONTO - SOCORRO 04.03.03.220 saúde, prontos-socorros, ambulatórios e</linha_original>
+    </item>
+    <item>
+      <codigo>04.03.03.220</codigo>
+      <linha_original>040306213 AMBULATÓRIO MÉDICO 04.03.03.220 saúde, prontos-socorros, ambulatórios e</linha_original>
+    </item>
+    <item>
+      <codigo>04.03.03.220</codigo>
+      <linha_original>040307212 CONSULTÓRIO MÉDICO 04.03.03.220 saúde, prontos-socorros, ambulatórios e</linha_original>
+    </item>
+    <item>
+      <codigo>04.03.03.220</codigo>
+      <linha_original>040308211 SANATÓRIO 04.03.03.220 saúde, prontos-socorros, ambulatórios e</linha_original>
+    </item>
+    <item>
+      <codigo>04.03.03.220</codigo>
+      <linha_original>040309211 MATERNIDADE 04.03.03.220 saúde, prontos-socorros, ambulatórios e</linha_original>
+    </item>
+    <item>
+      <codigo>04.03.03.220</codigo>
+      <linha_original>040313214 CLINICA DE ALERGOLOGIA E IMUNOLOGIA 04.03.03.220 saúde, prontos-socorros, ambulatórios e</linha_original>
+    </item>
+    <item>
+      <codigo>04.04.01.220</codigo>
+      <linha_original>040401217 INSTRUMENTAÇÃO CIRÚRGICA 04.04.01.220 Instrumentação cirúrgica.</linha_original>
+    </item>
+    <item>
+      <codigo>04.04.01.110</codigo>
+      <linha_original>040401119 INSTRUMENTADOR CIRÚRGICO 04.04.01.110 Instrumentação cirúrgica.</linha_original>
+    </item>
+    <item>
+      <codigo>04.05.01.220</codigo>
+      <linha_original>040501216 ACUPUNTURA 04.05.01.220 Acupuntura.</linha_original>
+    </item>
+    <item>
+      <codigo>04.05.01.110</codigo>
+      <linha_original>040501118 ACUPUNTOR 04.05.01.110 Acupuntura.</linha_original>
+    </item>
+    <item>
+      <codigo>04.06.01.220</codigo>
+      <linha_original>040601215 ENFERMAGEM 04.06.01.220 Enfermagem, inclusive serviços auxiliares.</linha_original>
+    </item>
+    <item>
+      <codigo>27.01.01.210</codigo>
+      <linha_original>042401213 CUIDADOR(A) DE IDOSOS E ENFERMOS 27.01.01.210 Serviços de assistência social.</linha_original>
+    </item>
+    <item>
+      <codigo>04.06.01.111</codigo>
+      <linha_original>040601117 ENFERMEIRO 04.06.01.111 Enfermagem, inclusive serviços auxiliares.</linha_original>
+    </item>
+    <item>
+      <codigo>04.06.01.110</codigo>
+      <linha_original>040602116 AUXILIAR DE ENFERMAGEM 04.06.01.110 Enfermagem, inclusive serviços auxiliares.</linha_original>
+    </item>
+    <item>
+      <codigo>04.06.01.110</codigo>
+      <linha_original>040603115 TÉCNICO EM ENFERMAGEM 04.06.01.110 Enfermagem, inclusive serviços auxiliares.</linha_original>
+    </item>
+    <item>
+      <codigo>04.06.01.110</codigo>
+      <linha_original>040604114 TÉCNICO EM ORTOPEDIA 04.06.01.110 Enfermagem, inclusive serviços auxiliares.</linha_original>
+    </item>
+    <item>
+      <codigo>04.07.01.220</codigo>
+      <linha_original>040701214 SERVIÇOS FARMACÊUTICOS 04.07.01.220 Serviços farmacêuticos.</linha_original>
+    </item>
+    <item>
+      <codigo>04.07.01.110</codigo>
+      <linha_original>040701116 FARMACEUTICO (AUTÔNOMO) 04.07.01.110 Serviços farmacêuticos.</linha_original>
+    </item>
+    <item>
+      <codigo>04.08.01.220</codigo>
+      <linha_original>040801213 TERAPIA OCUPACIONAL 04.08.01.220 Terapia ocupacional.</linha_original>
+    </item>
+    <item>
+      <codigo>04.08.01.110</codigo>
+      <linha_original>040801115 TERAPEUTA OCUPACIONAL 04.08.01.110 Terapia ocupacional.</linha_original>
+    </item>
+    <item>
+      <codigo>04.08.02.220</codigo>
+      <linha_original>040802212 FISIOTERAPIA 04.08.02.220 Fisioterapia.</linha_original>
+    </item>
+    <item>
+      <codigo>04.08.02.220</codigo>
+      <linha_original>040810212 QUIROPRAXIA 04.08.02.220 Fisioterapia.</linha_original>
+    </item>
+    <item>
+      <codigo>04.08.02.110</codigo>
+      <linha_original>040802114 FISIOTERAPEUTA 04.08.02.110 Fisioterapia.</linha_original>
+    </item>
+    <item>
+      <codigo>04.08.02.110</codigo>
+      <linha_original>040805111 QUIROPRAXISTA 04.08.02.110 Fisioterapia.</linha_original>
+    </item>
+    <item>
+      <codigo>04.08.02.210</codigo>
+      <linha_original>040806218 FISIOTERAPIA (SOCIEDADE PROFISSIONAL) 04.08.02.210 Fisioterapia.</linha_original>
+    </item>
+    <item>
+      <codigo>04.08.03.220</codigo>
+      <linha_original>040804211 FONOAUDIOLOGIA 04.08.03.220 Fonoaudiologia.</linha_original>
+    </item>
+    <item>
+      <codigo>04.08.03.110</codigo>
+      <linha_original>040803113 FONOAUDIOLOGO 04.08.03.110 Fonoaudiologia.</linha_original>
+    </item>
+    <item>
+      <codigo>04.09.01.220</codigo>
+      <linha_original>040901212 TERAPIAS FÍSICAS, ORGÂNICAS E MENTAIS 04.09.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>04.09.01.110</codigo>
+      <linha_original>040901114 TERAPEUTA FISICO, ORGANICO E MENTAL 04.09.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>04.10.01.220</codigo>
+      <linha_original>041001219 NUTRIÇÃO 04.10.01.220 Nutrição.</linha_original>
+    </item>
+    <item>
+      <codigo>04.10.01.110</codigo>
+      <linha_original>041001111 NUTRICIONISTA 04.10.01.110 Nutrição.</linha_original>
+    </item>
+    <item>
+      <codigo>04.10.01.220</codigo>
+      <linha_original>041002218 NUTRIÇÃO (SOCIEDADE PROFISSIONAL) 04.10.01.220 Nutrição.</linha_original>
+    </item>
+    <item>
+      <codigo>04.11.01.220</codigo>
+      <linha_original>041101218 OBSTETRÍCIA 04.11.01.220 Obstetrícia.</linha_original>
+    </item>
+    <item>
+      <codigo>04.11.01.110</codigo>
+      <linha_original>041101111 OBSTETRA 04.11.01.110 Obstetrícia.</linha_original>
+    </item>
+    <item>
+      <codigo>04.11.01.210</codigo>
+      <linha_original>041102217 OBSTETRICIA (SOCIEDADE PROFISSIONAL) 04.11.01.210 Obstetrícia.</linha_original>
+    </item>
+    <item>
+      <codigo>04.12.01.220</codigo>
+      <linha_original>041201217 ODONTOLOGIA ( SERVIÇOS DENTÁRIOS ) 04.12.01.220 Odontologia.</linha_original>
+    </item>
+    <item>
+      <codigo>04.12.01.220</codigo>
+      <linha_original>041202216 ORTODONTIA 04.12.01.220 Odontologia.</linha_original>
+    </item>
+    <item>
+      <codigo>04.12.01.111</codigo>
+      <linha_original>040112119 ORTODONTISTA 04.12.01.111 Odontologia.</linha_original>
+    </item>
+    <item>
+      <codigo>04.12.01.111</codigo>
+      <linha_original>041201119 ODONTOLOGISTA 04.12.01.111 Odontologia.</linha_original>
+    </item>
+    <item>
+      <codigo>04.12.01.110</codigo>
+      <linha_original>041202118 AUXILIAR DE CONSULTORIO DENTARIO 04.12.01.110 Odontologia.</linha_original>
+    </item>
+    <item>
+      <codigo>04.12.01.210</codigo>
+      <linha_original>041204214 ORTODONTIA (SOCIEDADE PROFISSIONAL) 04.12.01.210 Odontologia.</linha_original>
+    </item>
+    <item>
+      <codigo>04.13.01.220</codigo>
+      <linha_original>040121216 OPTOMETRIA 04.13.01.220 Ortóptica.</linha_original>
+    </item>
+    <item>
+      <codigo>04.13.01.220</codigo>
+      <linha_original>041301216 ORTÓPTICA 04.13.01.220 Ortóptica.</linha_original>
+    </item>
+    <item>
+      <codigo>04.13.01.110</codigo>
+      <linha_original>040119112 TÉCNICO OPTOMETRISTA 04.13.01.110 Ortóptica.</linha_original>
+    </item>
+    <item>
+      <codigo>04.13.01.210</codigo>
+      <linha_original>040120217 OPTOMETRIA (SOCIEDADE PROFISSIONAL) 04.13.01.210 Ortóptica.</linha_original>
+    </item>
+    <item>
+      <codigo>04.13.01.110</codigo>
+      <linha_original>041301118 ORTOPTICO 04.13.01.110 Ortóptica.</linha_original>
+    </item>
+    <item>
+      <codigo>04.13.01.210</codigo>
+      <linha_original>041302215 ORTÓPTICA (SOCIEDADE PROFISSIONAL) 04.13.01.210 Ortóptica.</linha_original>
+    </item>
+    <item>
+      <codigo>04.14.01.220</codigo>
+      <linha_original>041401215 PRÓTESES SOB ENCOMENDA 04.14.01.220 Próteses sob encomenda.</linha_original>
+    </item>
+    <item>
+      <codigo>04.14.01.110</codigo>
+      <linha_original>041401117 PROTETICO 04.14.01.110 Próteses sob encomenda.</linha_original>
+    </item>
+    <item>
+      <codigo>04.14.01.210</codigo>
+      <linha_original>041402214 PRÓTESE (SOCIEDADE PROFISSIONAL) 04.14.01.210 Próteses sob encomenda.</linha_original>
+    </item>
+    <item>
+      <codigo>04.15.01.220</codigo>
+      <linha_original>041501214 PSICANÁLISE 04.15.01.220 Psicanálise.</linha_original>
+    </item>
+    <item>
+      <codigo>04.15.01.110</codigo>
+      <linha_original>041501116 PSICANALISTA 04.15.01.110 Psicanálise.</linha_original>
+    </item>
+    <item>
+      <codigo>04.16.01.220</codigo>
+      <linha_original>041601213 PSICOLOGIA 04.16.01.220 Psicologia.</linha_original>
+    </item>
+    <item>
+      <codigo>04.16.01.110</codigo>
+      <linha_original>041601115 PSICOLOGO 04.16.01.110 Psicologia.</linha_original>
+    </item>
+    <item>
+      <codigo>04.16.01.210</codigo>
+      <linha_original>041602212 PSICOLOGIA (SOCIEDADE PROFISSIONAL) 04.16.01.210 Psicologia.</linha_original>
+    </item>
+    <item>
+      <codigo>04.17.01.220</codigo>
+      <linha_original>041704219 CLÍNICA DE REPOUSO 04.17.01.220 Casas de repouso e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>04.17.02.220</codigo>
+      <linha_original>041701212 CASAS DE REPOUSO E DE RECUPERAÇÃO 04.17.02.220 Casas de recuperação e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>04.17.03.220</codigo>
+      <linha_original>041702211 CRECHE E BERÇÁRIO 04.17.03.220 Creches e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>04.17.04.220</codigo>
+      <linha_original>041703211 ASILOS E CONGÊNERES 04.17.04.220 Asilos e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>04.19.01.220</codigo>
+      <linha_original>041901211 BANCO DE SANGUE 04.19.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>04.19.01.220</codigo>
+      <linha_original>041902219 BANCO DE LEITE, PELE E OLHOS 04.19.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>04.19.01.220</codigo>
+      <linha_original>041903218 BANCO DE ÓVULO, SÊMEN E CONGÊNERES 04.19.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>04.20.01.220</codigo>
+      <linha_original>042001217 COLETA DE SANGUE 04.20.01.220 órgãos e materiais biológicos de qualquer</linha_original>
+    </item>
+    <item>
+      <codigo>04.20.01.220</codigo>
+      <linha_original>042003215 COLETA DE SÊMEN E ÓRGÃOS BIOLÓGICOS 04.20.01.220 órgãos e materiais biológicos de qualquer</linha_original>
+    </item>
+    <item>
+      <codigo>04.22.01.220</codigo>
+      <linha_original>042202214 CONVÊNIO MÉDICO 04.22.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>05.01.01.220</codigo>
+      <linha_original>050103217 MEDICINA VETERINÁRIA 05.01.01.220 Medicina veterinária</linha_original>
+    </item>
+    <item>
+      <codigo>05.01.01.110</codigo>
+      <linha_original>050101111 VETERINÁRIO 05.01.01.110 Medicina veterinária</linha_original>
+    </item>
+    <item>
+      <codigo>05.01.02.220</codigo>
+      <linha_original>050102218 ZOOTECNIA 05.01.02.220 Zootecnia.</linha_original>
+    </item>
+    <item>
+      <codigo>05.03.01.220</codigo>
+      <linha_original>050301217 LABORATÓRIO DE ANALISE VETERINÁRIA 05.03.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>05.06.01.220</codigo>
+      <linha_original>050601214 COLETA DE SANGUE VETERINÁRIA 05.06.01.220 órgãos e materiais biológicos de qualquer</linha_original>
+    </item>
+    <item>
+      <codigo>05.06.01.220</codigo>
+      <linha_original>050602213 COLETA DE LEITE E TECIDOS 05.06.01.220 órgãos e materiais biológicos de qualquer</linha_original>
+    </item>
+    <item>
+      <codigo>05.08.01.220</codigo>
+      <linha_original>050801212 GUARDA E ALOJAMENTO DE ANIMAIS 05.08.01.220 embelezamento, alojamento e</linha_original>
+    </item>
+    <item>
+      <codigo>05.08.01.220</codigo>
+      <linha_original>050803211 EMBELEZAMENTO RELATIVOS A ANIMAIS 05.08.01.220 embelezamento, alojamento e</linha_original>
+    </item>
+    <item>
+      <codigo>05.08.01.220</codigo>
+      <linha_original>050804219 CAPTURA DE ANIMAIS 05.08.01.220 embelezamento, alojamento e</linha_original>
+    </item>
+    <item>
+      <codigo>05.08.01.210</codigo>
+      <linha_original>051001218 ADESTRADOR(A) DE CÃES DE GUARDA 05.08.01.210 embelezamento, alojamento e</linha_original>
+    </item>
+    <item>
+      <codigo>05.08.01.210</codigo>
+      <linha_original>051102216 TOSQUIADOR(A) 05.08.01.210 embelezamento, alojamento e</linha_original>
+    </item>
+    <item>
+      <codigo>05.08.01.210</codigo>
+      <linha_original>051203214 ESTETICISTA DE ANIMAIS DOMÉSTICOS 05.08.01.210 embelezamento, alojamento e</linha_original>
+    </item>
+    <item>
+      <codigo>05.08.01.210</codigo>
+      <linha_original>051204213 TOSADOR(A) DE ANIMAIS DOMÉSTICOS 05.08.01.210 embelezamento, alojamento e</linha_original>
+    </item>
+    <item>
+      <codigo>05.08.01.210</codigo>
+      <linha_original>051205212 BANHISTA DE ANIMAIS DOMÉSTICOS 05.08.01.210 embelezamento, alojamento e</linha_original>
+    </item>
+    <item>
+      <codigo>05.08.01.210</codigo>
+      <linha_original>051306211 ADESTRADOR(A) DE ANIMAIS 05.08.01.210 embelezamento, alojamento e</linha_original>
+    </item>
+    <item>
+      <codigo>05.08.01.210</codigo>
+      <linha_original>051407218 CUIDADOR(A) DE ANIMAIS (PET SITTER) 05.08.01.210 embelezamento, alojamento e</linha_original>
+    </item>
+    <item>
+      <codigo>05.08.01.110</codigo>
+      <linha_original>050801114 TRATADOR DE ANIMAIS 05.08.01.110 embelezamento, alojamento e</linha_original>
+    </item>
+    <item>
+      <codigo>06.01.01.220</codigo>
+      <linha_original>060101218 BARBEARIA 06.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>06.01.01.220</codigo>
+      <linha_original>060102217 SALÃO DE CABELEIREIRO 06.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>06.01.01.220</codigo>
+      <linha_original>060103216 MANICURO E PEDICURO ( EMPRESA ) 06.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>06.01.01.220</codigo>
+      <linha_original>060104215 PODOLOGIA 06.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>06.01.01.210</codigo>
+      <linha_original>060801211 CABELEIREIRO(A) 06.01.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>06.01.01.210</codigo>
+      <linha_original>060802211 MANICURE/PEDICURE 06.01.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>06.01.01.210</codigo>
+      <linha_original>060803219 BARBEIRO 06.01.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>06.01.01.210</codigo>
+      <linha_original>060903218 MAQUIADOR(A) 06.01.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>06.01.01.111</codigo>
+      <linha_original>060101111 BARBEIRO 06.01.01.111</linha_original>
+    </item>
+    <item>
+      <codigo>06.01.01.111</codigo>
+      <linha_original>060102119 CABELEIREIRO 06.01.01.111</linha_original>
+    </item>
+    <item>
+      <codigo>06.01.01.111</codigo>
+      <linha_original>060104117 PODOLOGO 06.01.01.111</linha_original>
+    </item>
+    <item>
+      <codigo>06.01.01.110</codigo>
+      <linha_original>060105116 CALISTA 06.01.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>06.02.01.220</codigo>
+      <linha_original>060201217 INSTITUTO DE BELEZA 06.02.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>06.02.01.220</codigo>
+      <linha_original>060202216 TRATAMENTO DE PELE 06.02.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>06.02.01.220</codigo>
+      <linha_original>060203215 DEPILAÇÃO 06.02.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>06.02.01.210</codigo>
+      <linha_original>060901211 DEPILADOR(A) 06.02.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>06.02.01.210</codigo>
+      <linha_original>060902219 ESTETICISTA 06.02.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>06.02.01.111</codigo>
+      <linha_original>060201119 ESTETICISTA 06.02.01.111</linha_original>
+    </item>
+    <item>
+      <codigo>06.02.01.110</codigo>
+      <linha_original>060202118 DEPILADOR 06.02.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>06.03.01.220</codigo>
+      <linha_original>060301216 BANHOS, DUCHAS E SAUNA 06.03.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>06.03.01.220</codigo>
+      <linha_original>060302215 MASSAGEM 06.03.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>06.03.01.110</codigo>
+      <linha_original>060301118 MASSAGISTA 06.03.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>06.04.01.220</codigo>
+      <linha_original>060401215 ACADEMIA DE GINÁSTICA 06.04.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>06.04.01.220</codigo>
+      <linha_original>060402214 ACADEMIA DE DANÇA 06.04.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>06.04.01.220</codigo>
+      <linha_original>060403213 ESCOLA DE ESPORTES E NATAÇÃO 06.04.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>06.04.01.220</codigo>
+      <linha_original>060404212 ENSINO DE ARTES MARCIAIS 06.04.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>06.04.01.220</codigo>
+      <linha_original>060502213 PILATES 06.04.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>06.04.01.220</codigo>
+      <linha_original>060503212 SERVIÇOS DE PERSONAL TRAINER 06.04.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>06.04.01.220</codigo>
+      <linha_original>061001217 PERSONAL TRAINER 06.04.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>06.04.01.110</codigo>
+      <linha_original>060401117 PROFESSOR DE GINÁSTICA 06.04.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>06.04.01.110</codigo>
+      <linha_original>060402116 PROFESSOR DE DANÇA 06.04.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>06.04.01.110</codigo>
+      <linha_original>060403115 PROFESSOR DE ESPORTES 06.04.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>06.04.01.110</codigo>
+      <linha_original>060404114 PROFESSOR DE NATAÇÃO 06.04.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>06.04.01.110</codigo>
+      <linha_original>060405113 PROFESSOR DE ARTES MARCIAIS 06.04.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>06.04.01.110</codigo>
+      <linha_original>060406112 TREINADOR 06.04.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>06.04.01.110</codigo>
+      <linha_original>060407111 TREINADOR PESSOAL 06.04.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>06.04.01.110</codigo>
+      <linha_original>060408111 INSTRUTOR 06.04.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>06.06.01.210</codigo>
+      <linha_original>061101216 COLOCADOR(A) DE PIERCING 06.06.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>06.06.01.210</codigo>
+      <linha_original>061102215 TATUADOR(A) 06.06.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>06.06.01.220</codigo>
+      <linha_original>061104213 TATUAGEM 06.06.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>06.06.01.110</codigo>
+      <linha_original>061103116 TATUADOR 06.06.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.01.220</codigo>
+      <linha_original>070101217 ENGENHARIA 07.01.01.220 Engenharia e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.01.220</codigo>
+      <linha_original>070113213 ENGENHARIA CIVIL 07.01.01.220 Engenharia e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.01.220</codigo>
+      <linha_original>070305211 ENGENHARIA CONSULTIVA 07.01.01.220 Engenharia e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.01.110</codigo>
+      <linha_original>070101119 ENGENHEIRO 07.01.01.110 Engenharia e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.01.110</codigo>
+      <linha_original>070102118 ENGENHEIRO AMBIENTAL 07.01.01.110 Engenharia e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.01.110</codigo>
+      <linha_original>070103117 ENGENHEIRO CIVIL 07.01.01.110 Engenharia e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.01.110</codigo>
+      <linha_original>070104116 ENGENHEIRO ELÉTRICO 07.01.01.110 Engenharia e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.01.110</codigo>
+      <linha_original>070105115 ENGENHEIRO FLORESTAL 07.01.01.110 Engenharia e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.01.110</codigo>
+      <linha_original>070106114 ENGENHEIRO INDUSTRIAL 07.01.01.110 Engenharia e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.01.110</codigo>
+      <linha_original>070107113 ENGENHEIRO MECÂNICO 07.01.01.110 Engenharia e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.01.110</codigo>
+      <linha_original>070108112 ENGENHEIRO NAVAL 07.01.01.110 Engenharia e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.01.210</codigo>
+      <linha_original>070108211 ENGENHARIA (SOC. DE PROFISSIONAIS) 07.01.01.210 Engenharia e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.01.110</codigo>
+      <linha_original>070109111 ENGENHEIRO OPERACIONAL 07.01.01.110 Engenharia e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.01.110</codigo>
+      <linha_original>070110118 ENGENHEIRO QUÍMICO 07.01.01.110 Engenharia e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.01.110</codigo>
+      <linha_original>070301117 TECNÓLOGO EM CONSTRUÇÃO CIVIL 07.01.01.110 Engenharia e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.02.220</codigo>
+      <linha_original>070102216 AGRONOMIA 07.01.02.220 Agronomia e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.02.210</codigo>
+      <linha_original>070109219 AGRONOMIA (SOC. DE PROFISSIONAIS) 07.01.02.210 Agronomia e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.02.110</codigo>
+      <linha_original>070112116 AGRÔNOMO 07.01.02.110 Agronomia e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.03.220</codigo>
+      <linha_original>070103215 AGRIMENSURA 07.01.03.220 Agrimensura e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.03.110</codigo>
+      <linha_original>070111117 TÉCNICO EM AGRIMENSURA 07.01.03.110 Agrimensura e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.04.220</codigo>
+      <linha_original>070104214 ARQUITETURA 07.01.04.220 Arquitetura, urbanismo e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.04.220</codigo>
+      <linha_original>070106212 URBANISMO 07.01.04.220 Arquitetura, urbanismo e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.04.210</codigo>
+      <linha_original>070110216 ARQUITETURA (SOC. DE PROFISSIONAIS) 07.01.04.210 Arquitetura, urbanismo e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.04.210</codigo>
+      <linha_original>070112214 URBANISMO (SOC. DE PROFISSIONAIS) 07.01.04.210 Arquitetura, urbanismo e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.04.110</codigo>
+      <linha_original>070113115 ARQUITETO 07.01.04.110 Arquitetura, urbanismo e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.04.110</codigo>
+      <linha_original>070115113 URBANISTA 07.01.04.110 Arquitetura, urbanismo e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.05.220</codigo>
+      <linha_original>070105213 GEOLOGIA 07.01.05.220 Geologia e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.05.210</codigo>
+      <linha_original>070111215 GEOLOGIA (SOC. DE PROFISSIONAIS) 07.01.05.210 Geologia e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.05.110</codigo>
+      <linha_original>070114114 GEÓLOGO 07.01.05.110 Geologia e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.06.220</codigo>
+      <linha_original>070107211 PAISAGISMO 07.01.06.220 Paisagismo e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.01.06.110</codigo>
+      <linha_original>071102116 PAISAGISTA 07.01.06.110 Paisagismo e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.01.220</codigo>
+      <linha_original>070202117 ADMINISTRADOR DE OBRAS 07.02.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.01.220</codigo>
+      <linha_original>070203214 ADMINISTRAÇÃO DE OBRAS 07.02.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070201118 ARMADOR DE FERRAGENS 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070201216 CONSTRUÇÃO CIVIL 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070202215 EMPREITA DE OBRAS 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070203116 EMPREITEIRO DE OBRAS 07.02.02.220 perfuração de poços, escavação,</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070204115 MESTRE DE OBRAS 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070204213 SONDAGEM DE SOLO 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070205114 CARPINTEIRO 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070205212 PERFURAÇÃO DE POÇOS 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.210</codigo>
+      <linha_original>070206113 PEDREIRO 07.02.02.210</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070206211 ESCAVAÇÃO 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070207112 GRANITEIRO 07.02.02.220 perfuração de poços, escavação,</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070207211 DRENAGEM 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070208111 PINTOR DE IMÓVEIS 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070208219 IRRIGAÇÃO 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070209111 AZULEJISTA E LADRILHEIRO 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070209218 TERRAPLANAGEM 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070210117 MARMORISTA 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070210215 PAVIMENTAÇÃO 07.02.02.220 perfuração de poços, escavação,</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070211116 POCEIRO 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070211214 CONCRETAGEM 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070212115 ISOLADOR TÉRMICO E ACÚSTICO 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070212213 URBANIZAÇÃO 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070213114 SERRALHEIRO 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070213212 ATERRO 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070214113 ELETRICISTA 07.02.02.220 perfuração de poços, escavação,</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070214211 CONSTRUÇÕES E MONTAGENS METÁLICAS 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.210</codigo>
+      <linha_original>070215112 ENCANADOR 07.02.02.210</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070216219 CONSTRUÇÕES DE ALAMBRADOS 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070217218 FUNDAÇÃO E ESTAQUEAMENTO 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070219216 AZULEJAMENTO E LADRILHAGEM 07.02.02.220 perfuração de poços, escavação,</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070220213 PINTURA EM IMÓVEIS 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070221212 CONSERTO DE ESQUADRIAS 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070222211 INSTALAÇÕES ELÉTRICAS 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070224219 INSTALAÇÕES DE ESQUADRIAS 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070225218 IMPERMEABILIZAÇÃO DE IMÓVEIS 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070226217 INSTALAÇÕES CONTRA INCÊNDIO 07.02.02.220 perfuração de poços, escavação,</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>070702112 IMPERMEABILIZADOR 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.210</codigo>
+      <linha_original>072401211 BOMBEIRO(A) HIDRÁULICO 07.02.02.210</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>072402219 ENCANADOR 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.210</codigo>
+      <linha_original>072601218 CALHEIRO (A) 07.02.02.210</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.210</codigo>
+      <linha_original>072602217 TELHADOR(A) 07.02.02.210</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.210</codigo>
+      <linha_original>073302218 INSTALADOR(A) DE ISOLANTES TÉRMICOS 07.02.02.210</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.220</codigo>
+      <linha_original>073601216 PEDREIRO 07.02.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.210</codigo>
+      <linha_original>073701215 PINTOR(A) DE PAREDE 07.02.02.210</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.210</codigo>
+      <linha_original>073901213 POCEIRO/CISTERNEIRO/CACIMBEIRO 07.02.02.210</linha_original>
+    </item>
+    <item>
+      <codigo>07.02.02.210</codigo>
+      <linha_original>075301214 CERQUEIRO(A) INDEPENDENTE 07.02.02.210</linha_original>
+    </item>
+    <item>
+      <codigo>07.03.02.220</codigo>
+      <linha_original>070304212 PROJETOS DE ENGENHARIA 07.03.02.220 básicos e projetos executivos para</linha_original>
+    </item>
+    <item>
+      <codigo>07.03.02.220</codigo>
+      <linha_original>070306211 PROJETOS 07.03.02.220 básicos e projetos executivos para</linha_original>
+    </item>
+    <item>
+      <codigo>07.03.02.220</codigo>
+      <linha_original>070307219 CÁLCULOS 07.03.02.220 básicos e projetos executivos para</linha_original>
+    </item>
+    <item>
+      <codigo>07.03.02.110</codigo>
+      <linha_original>070302116 TÉCNICO EM PROJETOS 07.03.02.110 básicos e projetos executivos para</linha_original>
+    </item>
+    <item>
+      <codigo>07.04.01.220</codigo>
+      <linha_original>070401116 DETONADOR 07.04.01.220 Demolição.</linha_original>
+    </item>
+    <item>
+      <codigo>07.04.01.220</codigo>
+      <linha_original>070401214 DEMOLIÇÃO 07.04.01.220 Demolição.</linha_original>
+    </item>
+    <item>
+      <codigo>07.05.01.220</codigo>
+      <linha_original>070501213 REFORMA DE IMÓVEIS 07.05.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.05.01.220</codigo>
+      <linha_original>070502212 REPARAÇÃO DE IMÓVEIS 07.05.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.05.01.220</codigo>
+      <linha_original>070503211 CONSERVAÇÃO DE IMÓVEIS 07.05.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.06.01.220</codigo>
+      <linha_original>070601212 COLOCAÇÃO DE TAPETE 07.06.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.06.01.220</codigo>
+      <linha_original>070602211 COLOCAÇÃO DE CARPETES 07.06.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.06.01.220</codigo>
+      <linha_original>070604219 COLOCAÇÃO DE CORTINAS 07.06.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.06.01.110</codigo>
+      <linha_original>070601114 COLOCADOR DE CARPETE 07.06.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>07.06.01.110</codigo>
+      <linha_original>070602113 COLOCADOR DE CORTINAS 07.06.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>07.06.02.220</codigo>
+      <linha_original>070603112 VIDRACEIRO 07.06.02.220 divisórias, placas de gesso e congêneres,</linha_original>
+    </item>
+    <item>
+      <codigo>07.06.02.220</codigo>
+      <linha_original>070603211 COLOCAÇÃO DE ASSOALHO 07.06.02.220 divisórias, placas de gesso e congêneres,</linha_original>
+    </item>
+    <item>
+      <codigo>07.06.02.220</codigo>
+      <linha_original>070604111 REVESTIDOR 07.06.02.220 revestimentos de parede, vidros,</linha_original>
+    </item>
+    <item>
+      <codigo>07.06.02.220</codigo>
+      <linha_original>070605111 GESSEIRO 07.06.02.220 divisórias, placas de gesso e congêneres,</linha_original>
+    </item>
+    <item>
+      <codigo>07.06.02.220</codigo>
+      <linha_original>070605218 REVESTIMENTO DE PAREDES 07.06.02.220 divisórias, placas de gesso e congêneres,</linha_original>
+    </item>
+    <item>
+      <codigo>07.06.02.220</codigo>
+      <linha_original>070610211 ACABAMENTO EM GESSO 07.06.02.220 divisórias, placas de gesso e congêneres,</linha_original>
+    </item>
+    <item>
+      <codigo>07.06.02.220</codigo>
+      <linha_original>070611211 REVESTIMENTO DE PISOS 07.06.02.220 divisórias, placas de gesso e congêneres,</linha_original>
+    </item>
+    <item>
+      <codigo>07.06.02.210</codigo>
+      <linha_original>072301211 AZULEJISTA 07.06.02.210 divisórias, placas de gesso e congêneres,</linha_original>
+    </item>
+    <item>
+      <codigo>07.06.02.210</codigo>
+      <linha_original>072303219 COLOCADOR(A) DE REVESTIMENTOS 07.06.02.210 divisórias, placas de gesso e congêneres,</linha_original>
+    </item>
+    <item>
+      <codigo>07.06.02.210</codigo>
+      <linha_original>072304218 PASTILHEIRO(A) 07.06.02.210 divisórias, placas de gesso e congêneres,</linha_original>
+    </item>
+    <item>
+      <codigo>07.06.02.210</codigo>
+      <linha_original>072305217 SINTEQUEIRO(A) 07.06.02.210 divisórias, placas de gesso e congêneres,</linha_original>
+    </item>
+    <item>
+      <codigo>07.06.02.210</codigo>
+      <linha_original>073201211 GESSEIRO(A) 07.06.02.210 divisórias, placas de gesso e congêneres,</linha_original>
+    </item>
+    <item>
+      <codigo>07.06.02.210</codigo>
+      <linha_original>074501215 VIDRACEIRO DE EDIFICAÇÕES 07.06.02.210 divisórias, placas de gesso e congêneres,</linha_original>
+    </item>
+    <item>
+      <codigo>07.07.01.220</codigo>
+      <linha_original>070701113 RASPADOR E LUSTRADOR DE ASSOALHOS 07.07.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.07.01.220</codigo>
+      <linha_original>070701211 RECUPERAÇÃO E RASPAGEM DE PISOS 07.07.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.07.01.220</codigo>
+      <linha_original>070702211 POLIMENTO E LUSTRAÇÃO DE PISOS 07.07.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.07.01.220</codigo>
+      <linha_original>070703219 RASPAGEM E LUSTRAÇÃO EM ASSOALHOS 07.07.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.08.01.220</codigo>
+      <linha_original>070801112 CALAFETADOR 07.08.01.220 Calafetação.</linha_original>
+    </item>
+    <item>
+      <codigo>07.08.01.220</codigo>
+      <linha_original>070801211 CALAFETAÇÃO DE IMÓVEIS 07.08.01.220 Calafetação.</linha_original>
+    </item>
+    <item>
+      <codigo>07.08.01.210</codigo>
+      <linha_original>072302211 CALAFETADOR(A) 07.08.01.210 Calafetação.</linha_original>
+    </item>
+    <item>
+      <codigo>07.09.01.220</codigo>
+      <linha_original>070901219 VARRIÇÃO 07.09.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.09.01.220</codigo>
+      <linha_original>070902218 COLETA E REMOÇÃO DE LIXO 07.09.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.09.01.210</codigo>
+      <linha_original>072702216 COLETOR DE RESÍDUOS NÃO-PERIGOSOS 07.09.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>07.09.02.220</codigo>
+      <linha_original>070903217 INCINERAÇÃO DE LIXO 07.09.02.220 separação e destinação final de lixo,</linha_original>
+    </item>
+    <item>
+      <codigo>07.09.02.220</codigo>
+      <linha_original>070904216 INCINERAÇÃO DE RESÍDUOS QUAISQUER 07.09.02.220 separação e destinação final de lixo,</linha_original>
+    </item>
+    <item>
+      <codigo>07.09.02.210</codigo>
+      <linha_original>074101219 RECICLADOR (A) DE MATERIAIS PLÁSTICOS 07.09.02.210 separação e destinação final de lixo,</linha_original>
+    </item>
+    <item>
+      <codigo>07.10.01.220</codigo>
+      <linha_original>071802217 DESENTUPIMENTO DE ESGOTO 07.10.01.220 vias e logradouros públicos, parques,</linha_original>
+    </item>
+    <item>
+      <codigo>07.10.02.220</codigo>
+      <linha_original>071001216 LIMPEZA DE IMÓVEIS 07.10.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.10.02.220</codigo>
+      <linha_original>071002215 MANUTENÇÃO DE IMÓVEIS 07.10.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.10.02.220</codigo>
+      <linha_original>071803216 LIMPEZA DE FOSSA 07.10.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.10.02.210</codigo>
+      <linha_original>073101211 FOSSEIRO (LIMPADOR DE FOSSA) 07.10.02.210</linha_original>
+    </item>
+    <item>
+      <codigo>07.10.02.210</codigo>
+      <linha_original>073801214 PISCINEIRO(A) 07.10.02.210</linha_original>
+    </item>
+    <item>
+      <codigo>07.10.02.110</codigo>
+      <linha_original>071001118 LIMPADOR DE BENS IMÓVEIS 07.10.02.110</linha_original>
+    </item>
+    <item>
+      <codigo>07.11.01.220</codigo>
+      <linha_original>071101215 DECORAÇÃO 07.11.01.220 Decoração.</linha_original>
+    </item>
+    <item>
+      <codigo>07.11.01.220</codigo>
+      <linha_original>071102214 ORNAMENTAÇÃO 07.11.01.220 Decoração.</linha_original>
+    </item>
+    <item>
+      <codigo>07.11.01.110</codigo>
+      <linha_original>071101117 DECORADOR 07.11.01.110 Decoração.</linha_original>
+    </item>
+    <item>
+      <codigo>07.11.02.220</codigo>
+      <linha_original>071103213 JARDINAGEM E AJARDINAMENTO 07.11.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.11.02.220</codigo>
+      <linha_original>071104212 CORTE E PODA DE ÁRVORES 07.11.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.11.02.210</codigo>
+      <linha_original>073401218 JARDINEIRO(A) 07.11.02.210</linha_original>
+    </item>
+    <item>
+      <codigo>07.11.02.210</codigo>
+      <linha_original>075501212 SOB CONTRATO DE EMPREITADA, 07.11.02.210</linha_original>
+    </item>
+    <item>
+      <codigo>07.11.02.110</codigo>
+      <linha_original>420215119 JARDINEIRO (NÃO INCIDENTE) 07.11.02.110</linha_original>
+    </item>
+    <item>
+      <codigo>07.11.02.110</codigo>
+      <linha_original>071103115 JARDINEIRO 07.11.02.110</linha_original>
+    </item>
+    <item>
+      <codigo>07.12.01.220</codigo>
+      <linha_original>071204211 SANEAMENTO 07.12.01.220 qualquer natureza e de agentes físicos,</linha_original>
+    </item>
+    <item>
+      <codigo>07.13.01.220</codigo>
+      <linha_original>071301213 DEDETIZAÇÃO E IMUNIZAÇÃO DE IMÓVEIS 07.13.01.220 imunização, higienização, desratização,</linha_original>
+    </item>
+    <item>
+      <codigo>07.13.01.220</codigo>
+      <linha_original>071302212 DESRATIZAÇÃO 07.13.01.220 imunização, higienização, desratização,</linha_original>
+    </item>
+    <item>
+      <codigo>07.13.01.220</codigo>
+      <linha_original>071304211 DESINSETIZAÇÃO E PULVERIZAÇÃO 07.13.01.220 imunização, higienização, desratização,</linha_original>
+    </item>
+    <item>
+      <codigo>07.16.01.220</codigo>
+      <linha_original>071601211 FLORESTAMENTO E REFLORESTAMENTO 07.16.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.16.01.220</codigo>
+      <linha_original>071602219 ADUBAÇÃO E SEMEADURA 07.16.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.16.01.220</codigo>
+      <linha_original>071603218 SILVICULTURA 07.16.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.16.01.210</codigo>
+      <linha_original>075401213 SOB CONTRATO DE EMPREITADA, 07.16.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>07.16.01.210</codigo>
+      <linha_original>075402212 PREPARAÇÃO DE TERRENOS, SOB 07.16.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>07.16.01.210</codigo>
+      <linha_original>075404211 SEMEADURA, SOB CONTRATO DE 07.16.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>07.17.01.220</codigo>
+      <linha_original>071701219 ESCORAMENTO DE ENCOSTAS 07.17.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.17.01.220</codigo>
+      <linha_original>071702218 CONTENÇÃO DE ENCOSTAS 07.17.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.18.01.220</codigo>
+      <linha_original>071801218 DESASSOREAMENTO E DRAGAGEM 07.18.01.220 canais, baías, lagos, lagoas, represas,</linha_original>
+    </item>
+    <item>
+      <codigo>07.19.01.220</codigo>
+      <linha_original>071901217 FISCALIZAÇÃO DE OBRAS 07.19.01.220 execução de obras de engenharia,</linha_original>
+    </item>
+    <item>
+      <codigo>07.20.01.220</codigo>
+      <linha_original>072001214 AEROFOTOGRAMETRIA 07.20.01.220 interpretação), cartografia, mapeamento e</linha_original>
+    </item>
+    <item>
+      <codigo>07.20.01.220</codigo>
+      <linha_original>072002213 CARTOGRAFIA 07.20.01.220 interpretação), cartografia, mapeamento e</linha_original>
+    </item>
+    <item>
+      <codigo>07.20.01.220</codigo>
+      <linha_original>072003212 MAPEAMENTO 07.20.01.220 interpretação), cartografia, mapeamento e</linha_original>
+    </item>
+    <item>
+      <codigo>07.20.01.110</codigo>
+      <linha_original>072002115 CARTÓGRAFO 07.20.01.110 interpretação), cartografia, mapeamento e</linha_original>
+    </item>
+    <item>
+      <codigo>07.20.02.220</codigo>
+      <linha_original>072005211 LEVANTAMENTOS BATIMÉTRICOS 07.20.02.220 geodésicos, geológicos, geofísicos e</linha_original>
+    </item>
+    <item>
+      <codigo>07.20.02.220</codigo>
+      <linha_original>072006219 LEVANTAMENTOS GEOGRÁFICOS 07.20.02.220 geodésicos, geológicos, geofísicos e</linha_original>
+    </item>
+    <item>
+      <codigo>07.20.03.220</codigo>
+      <linha_original>072004211 TOPOGRAFIA 07.20.03.220 Levantamentos topográficos e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.20.03.110</codigo>
+      <linha_original>072001116 TOPÓGRAFO 07.20.03.110 Levantamentos topográficos e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>07.21.01.220</codigo>
+      <linha_original>072102212 MINERAÇÃO 07.21.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.21.01.220</codigo>
+      <linha_original>072103211 ESCAFANDRIA E MERGULHO 07.21.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>07.21.01.210</codigo>
+      <linha_original>073501217 MERGULHADOR(A) (ESCAFANDRISTA) 07.21.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>08.01.01.220</codigo>
+      <linha_original>080101216 ENSINO MATERNAL 08.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>08.01.01.220</codigo>
+      <linha_original>080102215 ENSINO REGULAR PRÉ-ESCOLAR 08.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>08.01.01.220</codigo>
+      <linha_original>080103214 ENSINO FUNDAMENTAL 08.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>08.01.01.220</codigo>
+      <linha_original>080104213 ENSINO MÉDIO 08.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>08.01.01.220</codigo>
+      <linha_original>080107211 ENSINO SUPLETIVO 08.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>08.01.01.110</codigo>
+      <linha_original>080101118 PROFESSOR DE MATERNAL 08.01.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>08.01.01.110</codigo>
+      <linha_original>080102117 PROFESSOR REGULAR PRÉ-ESCOLAR 08.01.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>08.01.01.110</codigo>
+      <linha_original>080103116 PROFESSOR DE ENSINO FUNDAMENTAL 08.01.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>08.01.01.110</codigo>
+      <linha_original>080104115 PROFESSOR DE ENSINO MÉDIO 08.01.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>08.01.02.220</codigo>
+      <linha_original>080105212 ENSINO SUPERIOR 08.01.02.220 Ensino regular superior.</linha_original>
+    </item>
+    <item>
+      <codigo>08.01.02.220</codigo>
+      <linha_original>080106211 PÓS GRADUAÇÃO 08.01.02.220 Ensino regular superior.</linha_original>
+    </item>
+    <item>
+      <codigo>08.01.02.110</codigo>
+      <linha_original>080105114 PROFESSOR DE ENSINO SUPERIOR 08.01.02.110 Ensino regular superior.</linha_original>
+    </item>
+    <item>
+      <codigo>08.01.02.110</codigo>
+      <linha_original>080106113 PROFESSOR DE PÓS-GRADUAÇÃO 08.01.02.110 Ensino regular superior.</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.220</codigo>
+      <linha_original>080201215 ENSINO PROFISSIONALIZANTE 08.02.01.220 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.220</codigo>
+      <linha_original>080203213 ENSINO DE MÚSICA 08.02.01.220 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.220</codigo>
+      <linha_original>080204212 ENSINO DE GINÁSTICA 08.02.01.220 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.220</codigo>
+      <linha_original>080205211 ENSINO DE ARTESANATO 08.02.01.220 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.220</codigo>
+      <linha_original>080206211 ENSINO DE COSTURA 08.02.01.220 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.220</codigo>
+      <linha_original>080207219 ENSINO DE ARTE CULINÁRIA 08.02.01.220 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.220</codigo>
+      <linha_original>080208218 ENSINO DE ARTES 08.02.01.220 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.220</codigo>
+      <linha_original>080209217 ENSINO DE ESTENOGRAFIA 08.02.01.220 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.220</codigo>
+      <linha_original>080210214 ENSINO DE COMPUTAÇÃO 08.02.01.220 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.220</codigo>
+      <linha_original>080211213 ENSINO DE IDIOMAS 08.02.01.220 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.220</codigo>
+      <linha_original>080212212 CURSO 08.02.01.220 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.220</codigo>
+      <linha_original>080213211 CURSO PREPARATÓRIO 08.02.01.220 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.220</codigo>
+      <linha_original>080214211 TREINAMENTO 08.02.01.220 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.220</codigo>
+      <linha_original>080215219 AUTO ESCOLA 08.02.01.220 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.220</codigo>
+      <linha_original>080216218 AVALIAÇÃO DE CONHECIMENTOS 08.02.01.220 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.220</codigo>
+      <linha_original>080217217 PEDAGOGIA 08.02.01.220 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.220</codigo>
+      <linha_original>080219215 INSTITUTO PSICOTÉCNICO 08.02.01.220 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.220</codigo>
+      <linha_original>080220212 ENSINO DE ATIVIDADES ESPORTIVAS 08.02.01.220 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.210</codigo>
+      <linha_original>080401213 INSTRUTOR(A) DE ARTES CÊNICAS 08.02.01.210 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.210</codigo>
+      <linha_original>080501212 INSTRUTOR(A) DE CURSOS GERENCIAIS 08.02.01.210 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.210</codigo>
+      <linha_original>080701211 INSTRUTOR(A) DE IDIOMAS 08.02.01.210 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.210</codigo>
+      <linha_original>080801219 INSTRUTOR(A) DE INFORMÁTICA 08.02.01.210 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.210</codigo>
+      <linha_original>080901218 INSTRUTOR(A) DE MÚSICA 08.02.01.210 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.210</codigo>
+      <linha_original>081001215 PROFESSOR(A) PARTICULAR 08.02.01.210 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.111</codigo>
+      <linha_original>080201117 PROFESSOR DE IDIOMAS 08.02.01.111 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.111</codigo>
+      <linha_original>080203115 PROFESSOR DE MÚSICA 08.02.01.111 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.111</codigo>
+      <linha_original>080204114 PROFESSOR DE ARTESANATO 08.02.01.111 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.111</codigo>
+      <linha_original>080205113 PROFESSOR DE COSTURA 08.02.01.111 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.111</codigo>
+      <linha_original>080206112 PROFESSOR DE ARTE CULINÁRIA 08.02.01.111 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.111</codigo>
+      <linha_original>080207111 PROFESSOR DE ARTES 08.02.01.111 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.111</codigo>
+      <linha_original>080208111 PROFESSOR DE ESTENOGRAFIA 08.02.01.111 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.111</codigo>
+      <linha_original>080209119 PROFESSOR DE COMPUTAÇÃO 08.02.01.111 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.111</codigo>
+      <linha_original>080210116 PROFESSOR 08.02.01.111 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.110</codigo>
+      <linha_original>080211115 INSTRUTOR DE AUTO-MOTO-ESCOLA 08.02.01.110 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>08.02.01.112</codigo>
+      <linha_original>080212114 PEDAGOGO 08.02.01.112 pedagógica e educacional, avaliação de</linha_original>
+    </item>
+    <item>
+      <codigo>09.01.01.220</codigo>
+      <linha_original>090103213 HOTELARIA MARÍTIMA 09.01.01.220 alimentação e gorjeta, quando incluído no</linha_original>
+    </item>
+    <item>
+      <codigo>09.01.02.210</codigo>
+      <linha_original>090901217 PROPRIETÁRIO(A) DE CAMPING 09.01.02.210 e congêneres (o valor da alimentação e</linha_original>
+    </item>
+    <item>
+      <codigo>09.01.02.210</codigo>
+      <linha_original>091001214 PROPRIETÁRIO(A) DE HOSPEDARIA 09.01.02.210 e congêneres (o valor da alimentação e</linha_original>
+    </item>
+    <item>
+      <codigo>09.01.02.210</codigo>
+      <linha_original>091101213 PROPRIETÁRIO(A) DE PENSÃO 09.01.02.210 e congêneres (o valor da alimentação e</linha_original>
+    </item>
+    <item>
+      <codigo>09.02.01.220</codigo>
+      <linha_original>090105211 AGENC. E INTERM. DE HOSPEDAGEM 09.02.01.220 programas de turismo, passeios, viagens,</linha_original>
+    </item>
+    <item>
+      <codigo>09.02.01.210</codigo>
+      <linha_original>090401212 AGENTE DE VIAGENS 09.02.01.210 programas de turismo, passeios, viagens,</linha_original>
+    </item>
+    <item>
+      <codigo>09.02.01.110</codigo>
+      <linha_original>090203114 AGENTE DE TURISMO 09.02.01.110 programas de turismo, passeios, viagens,</linha_original>
+    </item>
+    <item>
+      <codigo>09.02.02.210</codigo>
+      <linha_original>090701219 PROMOTOR(A) DE TURISMO LOCAL 09.02.02.210 programas de turismo, passeios, viagens,</linha_original>
+    </item>
+    <item>
+      <codigo>09.02.02.110</codigo>
+      <linha_original>090202115 PROMOTOR DE VENDAS E NEGÓGIOS 09.02.02.110 programas de turismo, passeios, viagens,</linha_original>
+    </item>
+    <item>
+      <codigo>09.03.01.210</codigo>
+      <linha_original>090501211 GUIA DE TURISMO 09.03.01.210 Guias de turismo.</linha_original>
+    </item>
+    <item>
+      <codigo>09.03.01.110</codigo>
+      <linha_original>090301115 GUIA DE TURISMO 09.03.01.110 Guias de turismo.</linha_original>
+    </item>
+    <item>
+      <codigo>10.01.01.220</codigo>
+      <linha_original>100101212 AGENC. CORRET. E INTERM. DE CÂMBIO 10.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>10.01.02.110</codigo>
+      <linha_original>100101114 CORRETOR DE SEGUROS 10.01.02.110</linha_original>
+    </item>
+    <item>
+      <codigo>10.01.04.110</codigo>
+      <linha_original>100103112 CORRETOR DE PLANOS DE SAÚDE 10.01.04.110</linha_original>
+    </item>
+    <item>
+      <codigo>10.01.05.110</codigo>
+      <linha_original>100102113 CORRETOR DE PREVIDÊNCIA PRIVADA 10.01.05.110 intermediação de planos de previdência</linha_original>
+    </item>
+    <item>
+      <codigo>10.02.01.220</codigo>
+      <linha_original>100201211 AGENC. CORRET. E INTERM. DE TÍTULOS 10.02.01.220 intermediação de títulos em geral e</linha_original>
+    </item>
+    <item>
+      <codigo>10.02.01.110</codigo>
+      <linha_original>100201113 AGENTE DE INVENTIMENTOS 10.02.01.110 intermediação de títulos em geral e</linha_original>
+    </item>
+    <item>
+      <codigo>10.03.01.111</codigo>
+      <linha_original>100302111 AGENTE DA PROPRIEDADE INDUSTRIAL 10.03.01.111 intermediação de direitos de propriedade</linha_original>
+    </item>
+    <item>
+      <codigo>10.05.01.220</codigo>
+      <linha_original>100503216 INTERMEDIAÇÃO DE NEGÓCIOS 10.05.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>10.05.01.220</codigo>
+      <linha_original>100504215 IMPORTAÇÃO (INTERMEDIAÇÃO) 10.05.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>10.05.01.220</codigo>
+      <linha_original>100505214 EXPORTAÇÃO ( INTERMEDIAÇÃO ) 10.05.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>10.05.01.220</codigo>
+      <linha_original>100506213 AGENCIAMENTO DE FRETES 10.05.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>10.05.01.220</codigo>
+      <linha_original>100507212 AGENCIAMENTO DE ARMAZENAGEM 10.05.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>10.05.01.111</codigo>
+      <linha_original>100401111 CORRETOR DE IMÓVEIS 10.05.01.111</linha_original>
+    </item>
+    <item>
+      <codigo>10.05.01.110</codigo>
+      <linha_original>100402111 CORRETOR DE BENS MÓVEIS 10.05.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>10.05.01.110</codigo>
+      <linha_original>100503118 INTERMEDIADOR DE NEGÓCIOS 10.05.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>10.06.01.220</codigo>
+      <linha_original>100601217 AGENCIAMENTO MARÍTIMO 10.06.01.220 Agenciamento marítimo.</linha_original>
+    </item>
+    <item>
+      <codigo>10.07.01.220</codigo>
+      <linha_original>100701216 AGENCIAMENTO DE NOTÍCIAS 10.07.01.220 Agenciamento de notícias.</linha_original>
+    </item>
+    <item>
+      <codigo>10.09.01.110</codigo>
+      <linha_original>100901116 REPRESENTANTE COMERCIAL 10.09.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>10.10.01.220</codigo>
+      <linha_original>101001211 DISTRIBUIÇÃO DE BENS DE TERCEIROS 10.10.01.220 Distribuição de bens de terceiros.</linha_original>
+    </item>
+    <item>
+      <codigo>11.01.01.110</codigo>
+      <linha_original>110101113 GUARDADOR DE VEÍCULOS 11.01.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>11.02.01.220</codigo>
+      <linha_original>110201211 VIGILÂNCIA E SEGURANÇA 11.02.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>11.02.01.110</codigo>
+      <linha_original>110201112 VIGILANTE 11.02.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>11.02.01.111</codigo>
+      <linha_original>110202111 SEGURANÇA 11.02.01.111</linha_original>
+    </item>
+    <item>
+      <codigo>11.02.01.110</codigo>
+      <linha_original>110203111 SALVA-VIDAS 11.02.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>11.02.01.111</codigo>
+      <linha_original>110204119 TÉCNICO EM SEGURANÇA 11.02.01.111</linha_original>
+    </item>
+    <item>
+      <codigo>11.03.01.220</codigo>
+      <linha_original>110301219 ESCOLTA 11.03.01.220 Escolta, inclusive de veículos e cargas.</linha_original>
+    </item>
+    <item>
+      <codigo>11.04.01.220</codigo>
+      <linha_original>110402217 GUARDA DE BENS MÓVEIS 11.04.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>11.04.01.210</codigo>
+      <linha_original>110601216 GUARDADOR(A) DE MÓVEIS 11.04.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>11.04.01.110</codigo>
+      <linha_original>110402119 ZELADOR 11.04.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>11.04.02.210</codigo>
+      <linha_original>060702211 CARREGADOR DE MALAS 11.04.02.210</linha_original>
+    </item>
+    <item>
+      <codigo>11.04.02.220</codigo>
+      <linha_original>110403216 CARGA, DESCARGA E ARRUMAÇÃO 11.04.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>11.04.02.220</codigo>
+      <linha_original>110404215 LOGÍSTICA 11.04.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>11.04.02.220</codigo>
+      <linha_original>110406213 CROSS DOCKING 11.04.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>11.04.02.110</codigo>
+      <linha_original>110401111 CARREGADOR 11.04.02.110</linha_original>
+    </item>
+    <item>
+      <codigo>12.01.01.220</codigo>
+      <linha_original>120101211 ESPETÁCULOS TEATRAIS 12.01.01.220 Espetáculos teatrais.</linha_original>
+    </item>
+    <item>
+      <codigo>12.02.01.220</codigo>
+      <linha_original>120201219 EXIBIÇÕES CINEMATOGRÁFICAS 12.02.01.220 Exibições cinematográficas.</linha_original>
+    </item>
+    <item>
+      <codigo>12.03.01.220</codigo>
+      <linha_original>120301218 ESPETÁCULOS CIRCENSES 12.03.01.220 Espetáculos circenses.</linha_original>
+    </item>
+    <item>
+      <codigo>12.04.01.220</codigo>
+      <linha_original>120401217 PROGRAMAS DE AUDITÓRIO 12.04.01.220 Programas de auditório.</linha_original>
+    </item>
+    <item>
+      <codigo>12.05.01.220</codigo>
+      <linha_original>120501216 PARQUES DE DIVERSÕES E CONGÊNERES 12.05.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>12.05.01.220</codigo>
+      <linha_original>120502215 CENTROS DE LAZER E CONGÊNERES 12.05.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>12.06.01.220</codigo>
+      <linha_original>120601215 BOATES E TAXI-DANCING 12.06.01.220 Boates, taxi-dancing e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>12.07.01.220</codigo>
+      <linha_original>120702213 ÓPERAS, CONCERTOS, RECITAIS, FESTIVAIS 12.07.01.220 óperas, concertos, recitais, festivais...</linha_original>
+    </item>
+    <item>
+      <codigo>12.07.01.220</codigo>
+      <linha_original>121202216 BAILES 12.07.01.220 óperas, concertos, recitais, festivais e</linha_original>
+    </item>
+    <item>
+      <codigo>12.07.01.210</codigo>
+      <linha_original>122101216 HUMORISTA E CONTADOR DE HISTÓRIAS 12.07.01.210 óperas, concertos, recitais, festivais e</linha_original>
+    </item>
+    <item>
+      <codigo>12.07.01.110</codigo>
+      <linha_original>121301118 BAILES (TRABALHO PESSOAL) 12.07.01.110 óperas, concertos, recitais, festivais e</linha_original>
+    </item>
+    <item>
+      <codigo>12.09.01.220</codigo>
+      <linha_original>120901212 BILHAR E SINUCA 12.09.01.220 Bilhares.</linha_original>
+    </item>
+    <item>
+      <codigo>12.09.02.220</codigo>
+      <linha_original>120902211 BOLICHE 12.09.02.220 Boliches.</linha_original>
+    </item>
+    <item>
+      <codigo>12.09.03.220</codigo>
+      <linha_original>120904219 JOGO DE BOCHA 12.09.03.220 Diversões eletrônicas ou não.</linha_original>
+    </item>
+    <item>
+      <codigo>12.09.03.210</codigo>
+      <linha_original>122401213 PROPRIETÁRIO(A) DE FLIPERAMA 12.09.03.210 Diversões eletrônicas ou não.</linha_original>
+    </item>
+    <item>
+      <codigo>12.09.03.110</codigo>
+      <linha_original>120901114 DIVERSÕES ELETRÔNICAS ( AUTÔNOMO ) 12.09.03.110 Diversões eletrônicas ou não.</linha_original>
+    </item>
+    <item>
+      <codigo>12.10.01.220</codigo>
+      <linha_original>121001219 CORRIDA E COMPETIÇÕES DE ANIMAIS 12.10.01.220 Corridas e competições de animais.</linha_original>
+    </item>
+    <item>
+      <codigo>12.12.01.220</codigo>
+      <linha_original>121201217 EXECUÇÃO DE MÚSICA 12.12.01.220 Execução de música.</linha_original>
+    </item>
+    <item>
+      <codigo>12.12.01.210</codigo>
+      <linha_original>121901211 CANTOR(A)MÚSICO(A) INDEPENDENTE 12.12.01.210 Execução de música.</linha_original>
+    </item>
+    <item>
+      <codigo>12.12.01.110</codigo>
+      <linha_original>121201119 MÚSICO 12.12.01.110 Execução de música.</linha_original>
+    </item>
+    <item>
+      <codigo>12.13.01.220</codigo>
+      <linha_original>121301216 PRODUÇÃO DE EVENTOS 12.13.01.220 entrevistas, shows, ballet, danças, desfiles,</linha_original>
+    </item>
+    <item>
+      <codigo>12.13.01.210</codigo>
+      <linha_original>122301214 PROMOTOR(A) DE EVENTOS 12.13.01.210 entrevistas, shows, ballet, danças, desfiles,</linha_original>
+    </item>
+    <item>
+      <codigo>12.13.01.110</codigo>
+      <linha_original>121302117 PROMOTOR DE EVENTOS 12.13.01.110 entrevistas, shows, ballet, danças, desfiles,</linha_original>
+    </item>
+    <item>
+      <codigo>12.14.01.210</codigo>
+      <linha_original>122001217 DISC JOCKEY (DJ) OU VIDEO JOCKEY (VJ) 12.14.01.210 fechados ou não, mediante transmissão</linha_original>
+    </item>
+    <item>
+      <codigo>12.16.01.220</codigo>
+      <linha_original>121601213 EXIBIÇÃO DE FILMES 12.16.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>12.16.01.220</codigo>
+      <linha_original>121603211 EXIBIÇÃO DE COMPETIÇÕS ESPORTIVAS 12.16.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>12.17.01.210</codigo>
+      <linha_original>121801211 ANIMADOR(A) DE FESTAS 12.17.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>12.17.01.210</codigo>
+      <linha_original>121802211 MÁGICO(A) 12.17.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>12.17.01.110</codigo>
+      <linha_original>121701114 ANIMADOR DE FESTA 12.17.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>13.02.01.220</codigo>
+      <linha_original>130202217 DUBLAGEM 13.02.01.220 trucagem, dublagem, mixagem e</linha_original>
+    </item>
+    <item>
+      <codigo>13.02.01.220</codigo>
+      <linha_original>130203216 SONOPLASTIA 13.02.01.220 trucagem, dublagem, mixagem e</linha_original>
+    </item>
+    <item>
+      <codigo>13.02.01.220</codigo>
+      <linha_original>130204215 LOCUÇÃO 13.02.01.220 trucagem, dublagem, mixagem e</linha_original>
+    </item>
+    <item>
+      <codigo>13.02.01.210</codigo>
+      <linha_original>130701213 DUBLADOR(A) 13.02.01.210 trucagem, dublagem, mixagem e</linha_original>
+    </item>
+    <item>
+      <codigo>13.02.01.111</codigo>
+      <linha_original>130201111 SONOPLASTA 13.02.01.111 trucagem, dublagem, mixagem e</linha_original>
+    </item>
+    <item>
+      <codigo>13.02.01.110</codigo>
+      <linha_original>130202119 DUBLADOR 13.02.01.110 trucagem, dublagem, mixagem e</linha_original>
+    </item>
+    <item>
+      <codigo>13.02.01.110</codigo>
+      <linha_original>130203118 LOCUTOR 13.02.01.110 trucagem, dublagem, mixagem e</linha_original>
+    </item>
+    <item>
+      <codigo>13.03.01.220</codigo>
+      <linha_original>130301217 FOTOGRAFIA 13.03.01.220 revelação, ampliação, cópia, reprodução,</linha_original>
+    </item>
+    <item>
+      <codigo>13.03.01.220</codigo>
+      <linha_original>130302216 CINEMATOGRAFIA 13.03.01.220 revelação, ampliação, cópia, reprodução,</linha_original>
+    </item>
+    <item>
+      <codigo>13.03.01.220</codigo>
+      <linha_original>130304214 GRAVAÇÃO DE VIDEOTEIPES 13.03.01.220 revelação, ampliação, cópia, reprodução,</linha_original>
+    </item>
+    <item>
+      <codigo>13.03.01.220</codigo>
+      <linha_original>130305213 GRAVAÇÃO DE FILMES 13.03.01.220 revelação, ampliação, cópia, reprodução,</linha_original>
+    </item>
+    <item>
+      <codigo>13.03.01.220</codigo>
+      <linha_original>130306212 LEGENDAGEM 13.03.01.220 revelação, ampliação, cópia, reprodução,</linha_original>
+    </item>
+    <item>
+      <codigo>13.03.01.220</codigo>
+      <linha_original>130307211 REPRODUÇÃO DE SOFTWARE 13.03.01.220 revelação, ampliação, cópia, reprodução,</linha_original>
+    </item>
+    <item>
+      <codigo>13.03.01.210</codigo>
+      <linha_original>130801212 EDITOR(A) DE VÍDEO 13.03.01.210 revelação, ampliação, cópia, reprodução,</linha_original>
+    </item>
+    <item>
+      <codigo>13.03.01.210</codigo>
+      <linha_original>131001218 FILMADOR(A) 13.03.01.210 revelação, ampliação, cópia, reprodução,</linha_original>
+    </item>
+    <item>
+      <codigo>13.03.01.210</codigo>
+      <linha_original>131201216 FOTÓGRAFO(A) 13.03.01.210 revelação, ampliação, cópia, reprodução,</linha_original>
+    </item>
+    <item>
+      <codigo>13.03.01.210</codigo>
+      <linha_original>131301215 FOTÓGRAFO(A) AÉREO 13.03.01.210 revelação, ampliação, cópia, reprodução,</linha_original>
+    </item>
+    <item>
+      <codigo>13.03.01.210</codigo>
+      <linha_original>131302214 FOTÓGRAFO(A) SUBMARINO 13.03.01.210 revelação, ampliação, cópia, reprodução,</linha_original>
+    </item>
+    <item>
+      <codigo>13.03.01.210</codigo>
+      <linha_original>131501213 REVELADOR(A) FOTOGRÁFICO 13.03.01.210 revelação, ampliação, cópia, reprodução,</linha_original>
+    </item>
+    <item>
+      <codigo>13.03.01.110</codigo>
+      <linha_original>130301119 FOTÓGRAFO 13.03.01.110 revelação, ampliação, cópia, reprodução,</linha_original>
+    </item>
+    <item>
+      <codigo>13.03.01.111</codigo>
+      <linha_original>130302118 GRAVADOR DE VIDEOTEIPES 13.03.01.111 revelação, ampliação, cópia, reprodução,</linha_original>
+    </item>
+    <item>
+      <codigo>13.04.01.220</codigo>
+      <linha_original>130401216 REPROGRAFIA 13.04.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>13.04.01.220</codigo>
+      <linha_original>130403214 MICROFILMAGEM 13.04.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>13.04.01.220</codigo>
+      <linha_original>130404213 DIGITALIZAÇÃO 13.04.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>13.04.01.210</codigo>
+      <linha_original>131101217 FOTOCOPIADOR(A) 13.04.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>13.04.01.110</codigo>
+      <linha_original>130401118 CÓPIA DE DOCUMENTOS ( AUTÔNOMO ) 13.04.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>13.05.01.220</codigo>
+      <linha_original>130501215 GRÁFICA 13.05.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>13.05.01.220</codigo>
+      <linha_original>130502214 FOTOCOMPOSIÇÃO 13.05.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>13.05.01.220</codigo>
+      <linha_original>130503213 CLICHERIA 13.05.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>13.05.01.220</codigo>
+      <linha_original>130504212 ZINCOGRAFIA 13.05.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>13.05.01.220</codigo>
+      <linha_original>130505211 LITOGRAFIA 13.05.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>13.05.01.220</codigo>
+      <linha_original>130506211 FOTOLITOGRAFIA 13.05.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>13.05.01.220</codigo>
+      <linha_original>130507219 EDITORAÇÃO 13.05.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>13.05.01.220</codigo>
+      <linha_original>130508218 SERIGRAFIA 13.05.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>13.05.01.220</codigo>
+      <linha_original>130510214 GRAVAÇÃO DE OBJETOS 13.05.01.220 posterior operação de comercialização ou</linha_original>
+    </item>
+    <item>
+      <codigo>13.05.01.220</codigo>
+      <linha_original>130511213 DESENHO 13.05.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>13.05.01.220</codigo>
+      <linha_original>130512212 COMPOSIÇÃO GRÁFICA 13.05.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>13.05.01.210</codigo>
+      <linha_original>130601214 CLICHERISTA 13.05.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>13.05.01.210</codigo>
+      <linha_original>131401214 SERIGRAFISTA PUBLICITÁRIO 13.05.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>13.05.01.210</codigo>
+      <linha_original>131601212 SERIGRAFISTA 13.05.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>13.05.01.220</codigo>
+      <linha_original>530903211 IMPRESSÃO DE MATERIAL DE SEGURANÇA 13.05.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>13.05.01.111</codigo>
+      <linha_original>130501117 GRÁFICO 13.05.01.111</linha_original>
+    </item>
+    <item>
+      <codigo>13.05.01.110</codigo>
+      <linha_original>130502116 COLORISTA 13.05.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>13.05.01.110</codigo>
+      <linha_original>130503115 SERIGRAFO 13.05.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>13.05.01.112</codigo>
+      <linha_original>130504114 EDITOR 13.05.01.112</linha_original>
+    </item>
+    <item>
+      <codigo>13.05.01.110</codigo>
+      <linha_original>130505113 ILUSTRADOR 13.05.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>13.05.01.110</codigo>
+      <linha_original>130506112 DESENHISTA 13.05.01.110 posterior operação de comercialização ou</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.210</codigo>
+      <linha_original>060703211 ENGRAXATE 14.01.01.210 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.210</codigo>
+      <linha_original>060704219 LAVADOR(A) DE ESTOFADO E SOFÁ 14.01.01.210 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.220</codigo>
+      <linha_original>140101218 LUBRIFICAÇÃO 14.01.01.220 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.220</codigo>
+      <linha_original>140102217 POSTO DE SERVIÇOS 14.01.01.220 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.220</codigo>
+      <linha_original>140103216 LIMPEZA DE BENS MÓVEIS 14.01.01.220 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.220</codigo>
+      <linha_original>140104215 LAVAGEM DE VEÍCULOS 14.01.01.220 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.220</codigo>
+      <linha_original>140106213 LUSTRAÇÃO DE BENS MÓVEIS 14.01.01.220 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.220</codigo>
+      <linha_original>140107212 AUTO-ELETRICO 14.01.01.220 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.220</codigo>
+      <linha_original>140108211 CARGA E RECARGA 14.01.01.220 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.220</codigo>
+      <linha_original>140109211 REVISÃO E CONSERTO DE BENS MÓVEIS 14.01.01.220 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.220</codigo>
+      <linha_original>140110217 RESTAURAÇÃO DE BENS MÓVEIS 14.01.01.220 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.220</codigo>
+      <linha_original>140111216 BLINDAGEM 14.01.01.220 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.220</codigo>
+      <linha_original>140114213 MANUTENÇÃO DE VEÍCULOS E MOTORES 14.01.01.220 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.220</codigo>
+      <linha_original>140115212 MANUTENÇÃO DE BENS MÓVEIS 14.01.01.220 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.220</codigo>
+      <linha_original>140118219 CONSERTO DE BENS MÓVEIS 14.01.01.220 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.220</codigo>
+      <linha_original>140119218 BORRACHARIA 14.01.01.220 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.220</codigo>
+      <linha_original>140120215 BICICLETARIA 14.01.01.220 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.220</codigo>
+      <linha_original>140121214 SAPATARIA 14.01.01.220 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.220</codigo>
+      <linha_original>140122213 CONSERTO DE RELÓGIO 14.01.01.220 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.220</codigo>
+      <linha_original>140123212 CONSERTO DE ELETRODOMÉSTICOS 14.01.01.220 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.220</codigo>
+      <linha_original>140124211 MANUTENÇÃO DE ELEVADORES 14.01.01.220 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.220</codigo>
+      <linha_original>140125211 CONSERVAÇÃO DE BENS MÓVEIS 14.01.01.220 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.220</codigo>
+      <linha_original>140602212 INSTALAÇÃO DE VIDROS EM VEÍCULOS 14.01.01.220 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.220</codigo>
+      <linha_original>140603211 INSTALAÇÃO DE INSUFILM 14.01.01.220 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.210</codigo>
+      <linha_original>142601219 ELEVADORES, ESCADAS E ESTEIRAS 14.01.01.210 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.210</codigo>
+      <linha_original>142901216 ACUMULADORES ELÉTRICOS, EXCETO 14.01.01.210 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.210</codigo>
+      <linha_original>143102211 MÉDICO-HOSPITALARES NÃO- 14.01.01.210 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.210</codigo>
+      <linha_original>143201211 HIDRÁULICOS E PNEUMÁTICOS, EXCETO 14.01.01.210 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.210</codigo>
+      <linha_original>143301211 TRANSFORMADORES E MOTORES 14.01.01.210 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.210</codigo>
+      <linha_original>143701216 EQUIPAMENTOS PARA AGRICULTURA E 14.01.01.210 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.210</codigo>
+      <linha_original>143801215 EQUIPAMENTOS PARA AS INDÚSTRIAS DE 14.01.01.210 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.210</codigo>
+      <linha_original>143903212 REPARADOR(A) DE FILTROS INDUSTRIAIS 14.01.01.210 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.210</codigo>
+      <linha_original>144101211 APARELHOS E EQUIPAMENTOS PARA 14.01.01.210 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.210</codigo>
+      <linha_original>144201219 EQUIPAMENTOS PARA DISTRIBUIÇÃO E 14.01.01.210 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.210</codigo>
+      <linha_original>144402216 EQUIPAMENTOS PARA A INDÚSTRIA DA 14.01.01.210 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.210</codigo>
+      <linha_original>144501216 RESERVATÓRIOS METÁLICOS E CALDEIRAS, 14.01.01.210 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.210</codigo>
+      <linha_original>144601215 REPARADOR(A) DE TRATORES AGRÍCOLAS 14.01.01.210 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.210</codigo>
+      <linha_original>145102216 REPARADOR(A) DE MÓVEIS 14.01.01.210 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.210</codigo>
+      <linha_original>145103215 REPARADOR(A) DE TOLDOS E PERSIANAS 14.01.01.210 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.210</codigo>
+      <linha_original>145201216 REPARADOR(A) DE BICICLETA 14.01.01.210 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.210</codigo>
+      <linha_original>145301215 SAPATEIRO(A) 14.01.01.210 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.210</codigo>
+      <linha_original>145501213 RELOJOEIRO(A) 14.01.01.210 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.210</codigo>
+      <linha_original>145901219 AMOLADOR(A) DE ARTIGOS DE CUTELARIA 14.01.01.210 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.210</codigo>
+      <linha_original>145903217 REPARADOR(A) DE BRINQUEDOS 14.01.01.210 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.210</codigo>
+      <linha_original>145907213 REPARADOR(A) DE PANELAS (PANELEIRO) 14.01.01.210 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.210</codigo>
+      <linha_original>146201214 BORRACHEIRO(A) 14.01.01.210 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.210</codigo>
+      <linha_original>146701219 LAVADOR(A) E POLIDOR DE CARRO 14.01.01.210 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.210</codigo>
+      <linha_original>146801218 ELETRICISTA DE AUTOMÓVEIS 14.01.01.210 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.210</codigo>
+      <linha_original>146901217 MECÂNICO(A) DE VEÍCULOS 14.01.01.210 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.210</codigo>
+      <linha_original>146902216 VIDRACEIRO DE AUTOMÓVEIS 14.01.01.210 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.114</codigo>
+      <linha_original>140101111 MECÂNICO 14.01.01.114 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.113</codigo>
+      <linha_original>140102119 MECÂNICO DE VEÍCULOS 14.01.01.113 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.113</codigo>
+      <linha_original>140103118 ELETRICISTA DE VEÍCULOS 14.01.01.113 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.110</codigo>
+      <linha_original>140104117 LAVADOR DE VEÍCULOS 14.01.01.110 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.110</codigo>
+      <linha_original>140105116 LAVADOR DE BENS 14.01.01.110 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.110</codigo>
+      <linha_original>140106115 SAPATEIRO 14.01.01.110 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.113</codigo>
+      <linha_original>140107114 RELOJOEIRO 14.01.01.113 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.112</codigo>
+      <linha_original>140108113 REPARADOR DE BENS MÓVEIS 14.01.01.112 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.114</codigo>
+      <linha_original>140109112 ELETROMECÂNICO 14.01.01.114 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.112</codigo>
+      <linha_original>140110119 BORRACHEIRO 14.01.01.112 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.110</codigo>
+      <linha_original>140111118 LIMPADOR DE BENS MÓVEIS 14.01.01.110 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.110</codigo>
+      <linha_original>140112117 OPERADOR DE PISCINA 14.01.01.110 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.01.01.111</codigo>
+      <linha_original>140113116 LUSTRADOR 14.01.01.111 máquinas, veículos, aparelhos,</linha_original>
+    </item>
+    <item>
+      <codigo>14.02.01.220</codigo>
+      <linha_original>140201217 ASSISTÊNCIA TÉCNICA 14.02.01.220 Assistência técnica.</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.220</codigo>
+      <linha_original>140501214 ACONDICIONAMENTO DE BENS 14.05.01.220 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.220</codigo>
+      <linha_original>140502213 RECONDICIONAMENTO DE BENS 14.05.01.220 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.220</codigo>
+      <linha_original>140503212 PINTURA DE BENS MÓVEIS 14.05.01.220 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.220</codigo>
+      <linha_original>140504211 BENEFICIAMENTO 14.05.01.220 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.220</codigo>
+      <linha_original>140505211 LAVAGEM, SECAGEM DE BENS 14.05.01.220 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.220</codigo>
+      <linha_original>140506219 TINGIMENTO 14.05.01.220 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.220</codigo>
+      <linha_original>140507218 GALVANOPLASTIA 14.05.01.220 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.220</codigo>
+      <linha_original>140508217 ANODIZAÇÃO 14.05.01.220 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.220</codigo>
+      <linha_original>140509216 CORTE E RECORTE 14.05.01.220 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.220</codigo>
+      <linha_original>140510213 POLIMENTO 14.05.01.220 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.220</codigo>
+      <linha_original>140511212 PLASTIFICAÇÃO 14.05.01.220 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.220</codigo>
+      <linha_original>140512211 TORNEAMENTO 14.05.01.220 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.220</codigo>
+      <linha_original>140513211 USINAGEM 14.05.01.220 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.220</codigo>
+      <linha_original>140514219 FRESAGEM 14.05.01.220 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.220</codigo>
+      <linha_original>140515218 MOLDAGEM 14.05.01.220 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.220</codigo>
+      <linha_original>140516217 LAMINAÇÃO 14.05.01.220 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.220</codigo>
+      <linha_original>140517216 FERRAMENTARIA 14.05.01.220 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.220</codigo>
+      <linha_original>140518215 FORJARIA 14.05.01.220 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.220</codigo>
+      <linha_original>140519214 OFICINA DE COSTURA 14.05.01.220 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.220</codigo>
+      <linha_original>140520211 EMBALAGEM DE BENS 14.05.01.220 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.220</codigo>
+      <linha_original>140521211 SOLDAGEM 14.05.01.220 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.210</codigo>
+      <linha_original>141501212 ACABADOR(A) DE CALÇADOS 14.05.01.210 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.210</codigo>
+      <linha_original>141901218 ENVASADOR(A) E EMPACOTADOR(A) 14.05.01.210 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.210</codigo>
+      <linha_original>145908212 RESTAURADOR(A) DE LIVROS 14.05.01.210 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.210</codigo>
+      <linha_original>146001216 RESTAURADOR(A) DE OBRAS DE ARTE 14.05.01.210 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.210</codigo>
+      <linha_original>146602219 PINTOR(A) DE AUTOMÓVEIS 14.05.01.210 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.210</codigo>
+      <linha_original>147101213 GALVANIZADOR(A) 14.05.01.210 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.210</codigo>
+      <linha_original>147201212 SOLDADOR(A)/BRASADOR(A) 14.05.01.210 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.210</codigo>
+      <linha_original>147202211 TORNEIRO(A) MECÂNICO 14.05.01.210 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.111</codigo>
+      <linha_original>140501116 PINTOR DE VEÍCULOS 14.05.01.111 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.111</codigo>
+      <linha_original>140502115 PINTOR DE BENS MÓVEIS 14.05.01.111 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.110</codigo>
+      <linha_original>140504113 POLIDOR 14.05.01.110 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.111</codigo>
+      <linha_original>140505112 SOLDADOR 14.05.01.111 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.112</codigo>
+      <linha_original>140506111 TORNEIRO MECÂNICO 14.05.01.112 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.05.01.111</codigo>
+      <linha_original>140507111 FERRAMENTEIRO 14.05.01.111 tingimento, galvanoplastia, anodização,</linha_original>
+    </item>
+    <item>
+      <codigo>14.06.01.210</codigo>
+      <linha_original>073002211 INSTALADOR(A) DE ANTENAS DE TV 14.06.01.210 montagem industrial, prestados ao usuário</linha_original>
+    </item>
+    <item>
+      <codigo>14.06.01.220</codigo>
+      <linha_original>140601213 INSTALAÇÃO DE BENS 14.06.01.220 montagem industrial, prestados ao usuário</linha_original>
+    </item>
+    <item>
+      <codigo>14.06.01.220</codigo>
+      <linha_original>140605219 MONTAGEM DE BENS MÒVEIS 14.06.01.220 montagem industrial, prestados ao usuário</linha_original>
+    </item>
+    <item>
+      <codigo>14.06.01.220</codigo>
+      <linha_original>140606218 MONTAGEM INDUSTRIAL 14.06.01.220 montagem industrial, prestados ao usuário</linha_original>
+    </item>
+    <item>
+      <codigo>14.06.01.210</codigo>
+      <linha_original>142201213 ORIENTAÇÃO À NAVEGAÇÃO MARÍTIMA, 14.06.01.210 montagem industrial, prestados ao usuário</linha_original>
+    </item>
+    <item>
+      <codigo>14.06.01.210</codigo>
+      <linha_original>147001214 MONTADOR(A) DE MÓVEIS 14.06.01.210 montagem industrial, prestados ao usuário</linha_original>
+    </item>
+    <item>
+      <codigo>14.06.01.110</codigo>
+      <linha_original>140604112 MONTADOR DE BENS MÓVEIS 14.06.01.110 montagem industrial, prestados ao usuário</linha_original>
+    </item>
+    <item>
+      <codigo>14.06.01.111</codigo>
+      <linha_original>310107113 TÉCNICO EM SOM 14.06.01.111 montagem industrial, prestados ao usuário</linha_original>
+    </item>
+    <item>
+      <codigo>14.08.01.210</codigo>
+      <linha_original>130901211 ENCADERNADOR(A)PLASTIFICADOR(A) 14.08.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>14.08.01.220</codigo>
+      <linha_original>140801211 ENCADERNAÇÃO DE LIVROS E AFINS 14.08.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>14.08.01.220</codigo>
+      <linha_original>140802211 GRAVAÇÃO EM LIVROS E AFINS 14.08.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>14.08.01.220</codigo>
+      <linha_original>140803219 DOURAÇÃO EM LIVROS E AFINS 14.08.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>14.08.01.110</codigo>
+      <linha_original>140801113 ENCADERNADOR 14.08.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>14.08.01.111</codigo>
+      <linha_original>140802112 PERSONIFICADOR 14.08.01.111</linha_original>
+    </item>
+    <item>
+      <codigo>14.09.01.220</codigo>
+      <linha_original>140901211 ALFAIATARIA E COSTURA 14.09.01.220 for fornecido pelo usuário final, exceto</linha_original>
+    </item>
+    <item>
+      <codigo>14.09.01.210</codigo>
+      <linha_original>141801219 ALFAIATE 14.09.01.210 for fornecido pelo usuário final, exceto</linha_original>
+    </item>
+    <item>
+      <codigo>14.09.01.210</codigo>
+      <linha_original>141802218 COSTUREIRO(A) DE ROUPAS, SOB MEDIDA 14.09.01.210 for fornecido pelo usuário final, exceto</linha_original>
+    </item>
+    <item>
+      <codigo>14.09.01.210</codigo>
+      <linha_original>144801213 BORDADEIRO(A) 14.09.01.210 for fornecido pelo usuário final, exceto</linha_original>
+    </item>
+    <item>
+      <codigo>14.09.01.210</codigo>
+      <linha_original>144802212 CUSTOMIZADOR(A) DE ROUPAS 14.09.01.210 for fornecido pelo usuário final, exceto</linha_original>
+    </item>
+    <item>
+      <codigo>14.09.01.111</codigo>
+      <linha_original>140901112 ALFAIATE 14.09.01.111 for fornecido pelo usuário final, exceto</linha_original>
+    </item>
+    <item>
+      <codigo>14.09.01.110</codigo>
+      <linha_original>140902111 COSTUREIRO 14.09.01.110 for fornecido pelo usuário final, exceto</linha_original>
+    </item>
+    <item>
+      <codigo>14.09.01.112</codigo>
+      <linha_original>370105119 MODISTA 14.09.01.112 for fornecido pelo usuário final, exceto</linha_original>
+    </item>
+    <item>
+      <codigo>14.10.01.220</codigo>
+      <linha_original>141001217 LAVANDERIA E TINTURARIA 14.10.01.220 Tinturaria e lavanderia.</linha_original>
+    </item>
+    <item>
+      <codigo>14.10.01.210</codigo>
+      <linha_original>142801217 LAVADEIRO(A) DE ROUPAS 14.10.01.210 Tinturaria e lavanderia.</linha_original>
+    </item>
+    <item>
+      <codigo>14.10.01.210</codigo>
+      <linha_original>147301211 TINTUREIRO(A) 14.10.01.210 Tinturaria e lavanderia.</linha_original>
+    </item>
+    <item>
+      <codigo>14.10.01.210</codigo>
+      <linha_original>147401211 LAVADEIRO(A) DE ROUPAS PROFISSIONAIS 14.10.01.210 Tinturaria e lavanderia.</linha_original>
+    </item>
+    <item>
+      <codigo>14.10.01.111</codigo>
+      <linha_original>141001119 TINTUREIRO 14.10.01.111 Tinturaria e lavanderia.</linha_original>
+    </item>
+    <item>
+      <codigo>14.10.01.110</codigo>
+      <linha_original>141002118 PASSADOR DE ROUPAS 14.10.01.110 Tinturaria e lavanderia.</linha_original>
+    </item>
+    <item>
+      <codigo>14.10.01.110</codigo>
+      <linha_original>141003117 LAVADOR DE ROUPAS 14.10.01.110 Tinturaria e lavanderia.</linha_original>
+    </item>
+    <item>
+      <codigo>14.11.01.220</codigo>
+      <linha_original>141102215 TAPEÇARIA DE VEÍCULOS 14.11.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>14.11.01.210</codigo>
+      <linha_original>145101217 ESTOFADOR(A) 14.11.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>14.11.01.210</codigo>
+      <linha_original>146301213 CAPOTEIRO(A) 14.11.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>14.11.01.210</codigo>
+      <linha_original>530422212 TAPECEIRO(A) 14.11.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>14.11.01.111</codigo>
+      <linha_original>141101118 TAPECEIRO DE VEÍCULOS 14.11.01.111</linha_original>
+    </item>
+    <item>
+      <codigo>14.11.01.110</codigo>
+      <linha_original>141102117 TAPECEIRO 14.11.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>14.12.01.210</codigo>
+      <linha_original>146601211 FUNILEIRO/ LANTERNEIRO 14.12.01.210 Funilaria e lanternagem.</linha_original>
+    </item>
+    <item>
+      <codigo>14.12.01.110</codigo>
+      <linha_original>141201117 FUNILEIRO DE VEÍCULOS 14.12.01.110 Funilaria e lanternagem.</linha_original>
+    </item>
+    <item>
+      <codigo>14.12.01.111</codigo>
+      <linha_original>141202116 FUNILEIRO INDUSTRIAL 14.12.01.111 Funilaria e lanternagem.</linha_original>
+    </item>
+    <item>
+      <codigo>14.13.01.220</codigo>
+      <linha_original>141301214 MARCENARIA 14.13.01.220 Carpintaria.</linha_original>
+    </item>
+    <item>
+      <codigo>14.13.01.220</codigo>
+      <linha_original>141302213 CARPINTARIA 14.13.01.220 Carpintaria.</linha_original>
+    </item>
+    <item>
+      <codigo>14.13.01.210</codigo>
+      <linha_original>142401211 CARPINTEIRO(A) INSTALADOR(A) 14.13.01.210 Carpintaria.</linha_original>
+    </item>
+    <item>
+      <codigo>14.13.01.210</codigo>
+      <linha_original>530712211 CARPINTEIRO(A) 14.13.01.210 Carpintaria.</linha_original>
+    </item>
+    <item>
+      <codigo>14.13.01.110</codigo>
+      <linha_original>141301116 MARCENEIRO 14.13.01.110 Carpintaria.</linha_original>
+    </item>
+    <item>
+      <codigo>14.13.01.110</codigo>
+      <linha_original>141302115 MODELADOR DE MADEIRAS 14.13.01.110 Carpintaria.</linha_original>
+    </item>
+    <item>
+      <codigo>14.13.02.220</codigo>
+      <linha_original>141303212 SERRALHERIA 14.13.02.220 Serralheria.</linha_original>
+    </item>
+    <item>
+      <codigo>14.14.01.220</codigo>
+      <linha_original>141401213 GUINCHO INTRAMUNICIPAL 14.14.01.220 Guincho intramunicipal.</linha_original>
+    </item>
+    <item>
+      <codigo>14.14.02.220</codigo>
+      <linha_original>141402212 GUIDASTE E IÇAMENTO 14.14.02.220 Guindaste e içamento.</linha_original>
+    </item>
+    <item>
+      <codigo>15.01.01.220</codigo>
+      <linha_original>150101217 ADMINISTRAÇÃO DE FUNDOS MÚTUOS 15.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>15.01.01.220</codigo>
+      <linha_original>150102216 ADMINISTRAÇÃO DE FUNDOS QUAISQUER 15.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>17.12.01.220</codigo>
+      <linha_original>171210211 ADMINISTRAÇÃO DE FUNDOS MÚTUOS 17.12.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>15.01.02.220</codigo>
+      <linha_original>150103215 ADMINISTRAÇÃO DE CONSÓRCIO 15.01.02.220 Administração de consórcio e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>15.01.02.220</codigo>
+      <linha_original>171209214 ADMINISTRAÇÃO DE CONSÓRCIOS 15.01.02.220 Administração de consórcio e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>15.06.02.220</codigo>
+      <linha_original>150602211 ABONO DE FIRMAS 15.06.02.220 Abono de firmas.</linha_original>
+    </item>
+    <item>
+      <codigo>15.06.08.220</codigo>
+      <linha_original>150607216 DEVOLUÇÃO DE BENS EM CUSTÓDIA 15.06.08.220 Devolução de bens em custódia.</linha_original>
+    </item>
+    <item>
+      <codigo>15.07.01.220</codigo>
+      <linha_original>150702211 ATENDIMENTO E CONSULTA A CONTAS 15.07.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>15.07.01.220</codigo>
+      <linha_original>150001218 SERVIÇOS BANCÁRIOS E FINANCEIROS 15.07.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>15.07.02.220</codigo>
+      <linha_original>150701211 ACESSO A TERMINAIS DE ATENDIMENTO 15.07.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>15.10.01.220</codigo>
+      <linha_original>151001216 COBRANÇA E RECEBIMENTO BANCÁRIO 15.10.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>15.10.03.221</codigo>
+      <linha_original>170116218 SERVIÇOS DE ADQUIRÊNCIA 15.10.03.221</linha_original>
+    </item>
+    <item>
+      <codigo>15.12.01.220</codigo>
+      <linha_original>151201214 CUSTÓDIA EM GERAL 15.12.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>15.13.01.220</codigo>
+      <linha_original>151301213 OPERAÇÕES DE CÂMBIO 15.13.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>15.13.03.220</codigo>
+      <linha_original>151303211 COBRANÇA OU DEPÓSITO NO EXTERIOR 15.13.03.220</linha_original>
+    </item>
+    <item>
+      <codigo>15.14.03.220</codigo>
+      <linha_original>151402211 ANUIDADE DE CARTÃO EM GERAL 15.14.03.220 de crédito, cartão de débito, cartão salário</linha_original>
+    </item>
+    <item>
+      <codigo>16.01.01.220</codigo>
+      <linha_original>160204212 TRANSPORTE MUNICIPAL DE ESCOLARES 16.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>16.01.01.220</codigo>
+      <linha_original>160205211 TRANSPORTE MUNICIPAL DE PESSOAS 16.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>16.01.01.210</codigo>
+      <linha_original>160601211 TRANSPORTADOR(A) ESCOLAR 16.01.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>16.01.01.110</codigo>
+      <linha_original>160204114 TRANSPORTADOR ESCOLAR (MUNICIPAL 16.01.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>16.01.01.110</codigo>
+      <linha_original>160205113 TRANSPORTADOR MUNICIPAL DE PESSOAS 16.01.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>16.02.01.220</codigo>
+      <linha_original>160203213 TRANSPORTE MUNICIPAL DE MUDANÇAS 16.02.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>16.02.01.220</codigo>
+      <linha_original>160206211 AUTO-SOCORRO MUNICIPAL 16.02.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>16.02.01.210</codigo>
+      <linha_original>160401213 GUINCHEIRO (REBOQUE DE VEÍCULOS) 16.02.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>16.02.01.210</codigo>
+      <linha_original>161001215 CARROCEIRO - TRANSPORTE DE CARGA 16.02.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>16.02.01.210</codigo>
+      <linha_original>161102213 TRANSPORTADOR(A) DE MUDANÇAS 16.02.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>16.02.01.210</codigo>
+      <linha_original>422001211 BARQUEIRO(A) 16.02.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>16.02.01.110</codigo>
+      <linha_original>160201117 MOTORISTA 16.02.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>16.02.01.110</codigo>
+      <linha_original>160202116 CARRETEIRO 16.02.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>16.02.01.110</codigo>
+      <linha_original>160203115 TRANSPORTADOR DE BENS 16.02.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>16.02.01.111</codigo>
+      <linha_original>160206112 PILOTO 16.02.01.111</linha_original>
+    </item>
+    <item>
+      <codigo>17.01.01.220</codigo>
+      <linha_original>170101215 ASSESSORIA 17.01.01.220 natureza, não contida em outros itens</linha_original>
+    </item>
+    <item>
+      <codigo>17.01.01.220</codigo>
+      <linha_original>170102214 CONSULTORIA 17.01.01.220 natureza, não contida em outros itens</linha_original>
+    </item>
+    <item>
+      <codigo>17.01.01.220</codigo>
+      <linha_original>170109217 ASSISTÊNCIA 17.01.01.220 natureza, não contida em outros itens</linha_original>
+    </item>
+    <item>
+      <codigo>17.01.01.220</codigo>
+      <linha_original>170110214 PLANEJAMENTO 17.01.01.220 natureza, não contida em outros itens</linha_original>
+    </item>
+    <item>
+      <codigo>17.01.01.220</codigo>
+      <linha_original>170111213 CONSULTORIA TÉCNICA 17.01.01.220 natureza, não contida em outros itens</linha_original>
+    </item>
+    <item>
+      <codigo>17.01.01.112</codigo>
+      <linha_original>170101117 ASSESSOR 17.01.01.112 natureza, não contida em outros itens</linha_original>
+    </item>
+    <item>
+      <codigo>17.01.01.112</codigo>
+      <linha_original>170102116 ASSESSOR TÉCNICO 17.01.01.112 natureza, não contida em outros itens</linha_original>
+    </item>
+    <item>
+      <codigo>17.01.01.112</codigo>
+      <linha_original>170103115 CONSULTOR 17.01.01.112 natureza, não contida em outros itens</linha_original>
+    </item>
+    <item>
+      <codigo>17.01.01.112</codigo>
+      <linha_original>170104114 CONSULTOR TÉCNICO 17.01.01.112 natureza, não contida em outros itens</linha_original>
+    </item>
+    <item>
+      <codigo>17.01.01.111</codigo>
+      <linha_original>170105113 ASSISTENTE 17.01.01.111 natureza, não contida em outros itens</linha_original>
+    </item>
+    <item>
+      <codigo>17.01.01.111</codigo>
+      <linha_original>170106112 ASSISTENTE TÉCNICO ADMINISTRATIVO 17.01.01.111 natureza, não contida em outros itens</linha_original>
+    </item>
+    <item>
+      <codigo>17.01.01.111</codigo>
+      <linha_original>170107111 ASSISTENTE TÉCNICO 17.01.01.111 natureza, não contida em outros itens</linha_original>
+    </item>
+    <item>
+      <codigo>17.01.01.112</codigo>
+      <linha_original>170108111 ASSESSOR DA PRODUÇÃO INDUSTRIAL 17.01.01.112 natureza, não contida em outros itens</linha_original>
+    </item>
+    <item>
+      <codigo>17.01.01.110</codigo>
+      <linha_original>170109119 AUXILIAR 17.01.01.110 natureza, não contida em outros itens</linha_original>
+    </item>
+    <item>
+      <codigo>17.01.02.220</codigo>
+      <linha_original>170103213 ANÁLISE 17.01.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>17.01.02.220</codigo>
+      <linha_original>170104212 EXAME 17.01.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>17.01.02.220</codigo>
+      <linha_original>170105211 PESQUISA 17.01.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>17.01.02.220</codigo>
+      <linha_original>170115219 EXAME DE INFORMAÇÕES 17.01.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>17.01.02.220</codigo>
+      <linha_original>170118216 COLETA DE DADOS E INFORMAÇÕES 17.01.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>17.01.02.220</codigo>
+      <linha_original>170119215 COMPILAÇÃO DE DADOS E INFORMAÇÕES 17.01.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>17.01.02.110</codigo>
+      <linha_original>020101114 PESQUISADOR DE INFORMAÇÕES 17.01.02.110</linha_original>
+    </item>
+    <item>
+      <codigo>17.01.02.110</codigo>
+      <linha_original>020102113 PESQUISADOR DE MERCADO 17.01.02.110</linha_original>
+    </item>
+    <item>
+      <codigo>17.02.01.220</codigo>
+      <linha_original>170201214 DIGITAÇÃO 17.02.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>17.02.01.220</codigo>
+      <linha_original>170202213 ESTENOGRAFIA 17.02.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>17.02.01.210</codigo>
+      <linha_original>173501215 DIGITADOR(A) 17.02.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>17.02.01.110</codigo>
+      <linha_original>010302112 DIGITADOR 17.02.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>17.02.01.111</codigo>
+      <linha_original>010303111 MECANÓGRAFO 17.02.01.111</linha_original>
+    </item>
+    <item>
+      <codigo>17.02.01.110</codigo>
+      <linha_original>170202115 ESTENOGRAFO 17.02.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>17.02.02.220</codigo>
+      <linha_original>100508211 TELEMARKETING 17.02.02.220 infra-estrutura administrativa e</linha_original>
+    </item>
+    <item>
+      <codigo>17.02.02.220</codigo>
+      <linha_original>100509211 ASSISTENCIA 24 HORAS 17.02.02.220 infra-estrutura administrativa e</linha_original>
+    </item>
+    <item>
+      <codigo>17.02.02.220</codigo>
+      <linha_original>170203212 ESCRITURAÇÃO 17.02.02.220 infra-estrutura administrativa e</linha_original>
+    </item>
+    <item>
+      <codigo>17.02.02.220</codigo>
+      <linha_original>170206219 ORGANIZAÇÃO DE ARQUIVOS 17.02.02.220 infra-estrutura administrativa e</linha_original>
+    </item>
+    <item>
+      <codigo>17.02.02.220</codigo>
+      <linha_original>170209216 TELEASSISTÊNCIA 17.02.02.220 infra-estrutura administrativa e</linha_original>
+    </item>
+    <item>
+      <codigo>17.02.02.220</codigo>
+      <linha_original>170212211 SECRETARIA EM GERAL 17.02.02.220 infra-estrutura administrativa e</linha_original>
+    </item>
+    <item>
+      <codigo>17.02.02.110</codigo>
+      <linha_original>170203114 SECRETÁRIO 17.02.02.110 infra-estrutura administrativa e</linha_original>
+    </item>
+    <item>
+      <codigo>17.02.03.220</codigo>
+      <linha_original>170210213 RESPOSTA AUDÍVEL 17.02.03.220 Resposta audível e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>17.02.04.220</codigo>
+      <linha_original>170207218 REDAÇÃO, REVISÃO E EDIÇÃO DE TEXTOS 17.02.04.220 Redação, edição, revisão e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>17.02.04.210</codigo>
+      <linha_original>172901213 EDITOR(A) DE LIVROS 17.02.04.210 Redação, edição, revisão e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>17.02.04.210</codigo>
+      <linha_original>173001211 EDITOR(A) DE REVISTAS 17.02.04.210 Redação, edição, revisão e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>17.02.05.220</codigo>
+      <linha_original>170204211 INTERPRETAÇÃO 17.02.05.220 Interpretação, tradução e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>17.02.05.220</codigo>
+      <linha_original>170205211 TRADUÇÃO 17.02.05.220 Interpretação, tradução e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>17.02.05.110</codigo>
+      <linha_original>170204113 TRADUTOR 17.02.05.110 Interpretação, tradução e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>17.02.05.110</codigo>
+      <linha_original>170205112 INTERPRETE 17.02.05.110 Interpretação, tradução e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>17.03.01.220</codigo>
+      <linha_original>170301213 PLANEJAMENTO TÉCNICO 17.03.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>17.04.01.220</codigo>
+      <linha_original>170402211 AGENCIAMENTO DE MÃO-DE-OBRA 17.04.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>17.05.01.220</codigo>
+      <linha_original>170501211 FORNECIMENTO DE MÃO-DE-OBRA 17.05.01.220 empregados ou trabalhadores, avulsos ou</linha_original>
+    </item>
+    <item>
+      <codigo>17.05.01.110</codigo>
+      <linha_original>170501113 AJUDANTE GERAL 17.05.01.110 empregados ou trabalhadores, avulsos ou</linha_original>
+    </item>
+    <item>
+      <codigo>17.06.01.220</codigo>
+      <linha_original>170603218 MARKETING 17.06.01.220 campanhas ou sistemas de publicidade,</linha_original>
+    </item>
+    <item>
+      <codigo>17.06.01.220</codigo>
+      <linha_original>170605216 PROMOÇÃO DE VENDAS E NEGÓCIOS 17.06.01.220 campanhas ou sistemas de publicidade,</linha_original>
+    </item>
+    <item>
+      <codigo>17.06.01.210</codigo>
+      <linha_original>173301217 BIKE PROPAGANDISTA 17.06.01.210 campanhas ou sistemas de publicidade,</linha_original>
+    </item>
+    <item>
+      <codigo>17.06.01.210</codigo>
+      <linha_original>173401216 CARTAZISTA, PINTOR DE INDEPENDENTE 17.06.01.210 campanhas ou sistemas de publicidade,</linha_original>
+    </item>
+    <item>
+      <codigo>17.06.01.210</codigo>
+      <linha_original>173601214 PANFLETEIRO(A) 17.06.01.210 campanhas ou sistemas de publicidade,</linha_original>
+    </item>
+    <item>
+      <codigo>17.06.01.210</codigo>
+      <linha_original>173602213 PROMOTOR(A) DE VENDAS 17.06.01.210 campanhas ou sistemas de publicidade,</linha_original>
+    </item>
+    <item>
+      <codigo>17.06.01.112</codigo>
+      <linha_original>170601112 PROMOTOR DE VENDAS E NEGÓCIOS 17.06.01.112 campanhas ou sistemas de publicidade,</linha_original>
+    </item>
+    <item>
+      <codigo>17.06.01.111</codigo>
+      <linha_original>170602111 PUBLICITÁRIO 17.06.01.111 campanhas ou sistemas de publicidade,</linha_original>
+    </item>
+    <item>
+      <codigo>17.06.01.110</codigo>
+      <linha_original>170603111 LETREIRISTA 17.06.01.110 campanhas ou sistemas de publicidade,</linha_original>
+    </item>
+    <item>
+      <codigo>17.06.01.110</codigo>
+      <linha_original>170604119 DIVULGADOR DE ANÚNCIOS 17.06.01.110 campanhas ou sistemas de publicidade,</linha_original>
+    </item>
+    <item>
+      <codigo>17.08.01.220</codigo>
+      <linha_original>170801218 FRANQUIA ( FRANCHISING) 17.08.01.220 Franquia (franchising).</linha_original>
+    </item>
+    <item>
+      <codigo>17.09.01.220</codigo>
+      <linha_original>170901217 PERÍCIAS 17.09.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>17.09.01.220</codigo>
+      <linha_original>170902216 LAUDOS, EXAMES, E ANÁLISE TÉCNICAS 17.09.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>17.09.01.110</codigo>
+      <linha_original>170901119 PERITO 17.09.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>17.11.01.220</codigo>
+      <linha_original>171101213 ORGANIZAÇÃO DE FESTAS E RECEPÇÕES 17.11.01.220 Organização de festas e recepções.</linha_original>
+    </item>
+    <item>
+      <codigo>17.11.02.220</codigo>
+      <linha_original>171102212 BUFÊ 17.11.02.220 alimentação e bebidas, que fica sujeito ao</linha_original>
+    </item>
+    <item>
+      <codigo>17.11.02.210</codigo>
+      <linha_original>173801212 CHURRASQUEIRO(A) EM DOMICÍLIO 17.11.02.210 alimentação e bebidas, que fica sujeito ao</linha_original>
+    </item>
+    <item>
+      <codigo>17.11.02.210</codigo>
+      <linha_original>173802211 PIZZAIOLO(A) EM DOMICÍLIO 17.11.02.210 alimentação e bebidas, que fica sujeito ao</linha_original>
+    </item>
+    <item>
+      <codigo>17.11.02.112</codigo>
+      <linha_original>171101115 CHEFE DE COZINHA 17.11.02.112 alimentação e bebidas, que fica sujeito ao</linha_original>
+    </item>
+    <item>
+      <codigo>17.11.02.111</codigo>
+      <linha_original>171102114 CONFEITEIRO 17.11.02.111 alimentação e bebidas, que fica sujeito ao</linha_original>
+    </item>
+    <item>
+      <codigo>17.11.02.110</codigo>
+      <linha_original>171103113 GARÇON 17.11.02.110 alimentação e bebidas, que fica sujeito ao</linha_original>
+    </item>
+    <item>
+      <codigo>17.11.02.110</codigo>
+      <linha_original>171104112 COZINHEIRO (TRIBUTADO) 17.11.02.110 alimentação e bebidas, que fica sujeito ao</linha_original>
+    </item>
+    <item>
+      <codigo>17.12.01.220</codigo>
+      <linha_original>171201212 ADMINISTRAÇÃO DE BENS 17.12.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>17.12.01.220</codigo>
+      <linha_original>171202211 ADMINISTRAÇÃO DE NEGÓCIOS 17.12.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>17.12.01.220</codigo>
+      <linha_original>171206217 ADMINISTRAÇÃO DE IMÓVEIS 17.12.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>17.12.01.220</codigo>
+      <linha_original>171207216 ADMINISTRAÇÃO DE EMPRESAS 17.12.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>17.12.01.220</codigo>
+      <linha_original>171208215 ADMINISTRAÇÃO DE CONTRATOS 17.12.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>17.12.01.110</codigo>
+      <linha_original>171201114 ADMINISTRADOR 17.12.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>17.12.01.110</codigo>
+      <linha_original>171202113 ADMINISTRADOR DE BENS 17.12.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>17.12.01.110</codigo>
+      <linha_original>171203112 ADMINISTRADOR DE NEGÓCIOS 17.12.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>17.12.01.110</codigo>
+      <linha_original>171204111 ADMINISTRADOR DE EMPRESAS 17.12.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>17.12.01.110</codigo>
+      <linha_original>171205111 SUPERVISOR 17.12.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>17.13.01.220</codigo>
+      <linha_original>171301211 LEILÃO 17.13.01.220 Leilão e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>17.13.01.110</codigo>
+      <linha_original>171301113 LEILOEIRO 17.13.01.110 Leilão e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>17.14.01.220</codigo>
+      <linha_original>171401211 ADVOCACIA 17.14.01.220 Advocacia</linha_original>
+    </item>
+    <item>
+      <codigo>17.14.01.110</codigo>
+      <linha_original>171401112 ADVOGADO 17.14.01.110 Advocacia</linha_original>
+    </item>
+    <item>
+      <codigo>17.14.01.210</codigo>
+      <linha_original>171402219 ADVOCACIA (SOCIEDADE PROFISSIONAL) 17.14.01.210 Advocacia</linha_original>
+    </item>
+    <item>
+      <codigo>17.15.01.220</codigo>
+      <linha_original>171501219 ARBITRAGEM 17.15.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>17.16.01.220</codigo>
+      <linha_original>171601218 AUDITORIA 17.16.01.220 Auditoria.</linha_original>
+    </item>
+    <item>
+      <codigo>17.16.01.110</codigo>
+      <linha_original>171601111 AUDITOR 17.16.01.110 Auditoria.</linha_original>
+    </item>
+    <item>
+      <codigo>17.16.01.210</codigo>
+      <linha_original>171602217 AUDITORIA (SOCIEDADE PROFISSIONAL) 17.16.01.210 Auditoria.</linha_original>
+    </item>
+    <item>
+      <codigo>17.17.01.220</codigo>
+      <linha_original>171701217 ANÁLISE DE ORGANIZAÇÃO E MÉTODOS 17.17.01.220 Análise de Organização e Métodos.</linha_original>
+    </item>
+    <item>
+      <codigo>17.17.01.110</codigo>
+      <linha_original>171701119 ANALISTA DE ORGANIZAÇÃO E MÉTODOS 17.17.01.110 Análise de Organização e Métodos.</linha_original>
+    </item>
+    <item>
+      <codigo>17.17.01.110</codigo>
+      <linha_original>171702118 ANALISTA 17.17.01.110 Análise de Organização e Métodos.</linha_original>
+    </item>
+    <item>
+      <codigo>17.18.01.220</codigo>
+      <linha_original>171801216 ATUARIA E CÁLCULOS TÉCNICOS 17.18.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>17.18.01.110</codigo>
+      <linha_original>171802117 CALCULISTA 17.18.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>17.19.01.220</codigo>
+      <linha_original>171901215 CONTABILIDADE 17.19.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>17.19.01.220</codigo>
+      <linha_original>171904212 PERÍCIA CONTÁBIL 17.19.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>17.19.01.110</codigo>
+      <linha_original>171901117 CONTADOR 17.19.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>17.19.01.110</codigo>
+      <linha_original>171902116 TÉCNICO EM CONTABILIDADE 17.19.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>17.20.01.220</codigo>
+      <linha_original>171802215 ECONOMIA 17.20.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>17.20.01.220</codigo>
+      <linha_original>172002211 ASSESSORIA ECONÔMICA OU FINANCEIRA 17.20.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>17.20.01.110</codigo>
+      <linha_original>171801118 ECONOMISTA 17.20.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>17.21.01.220</codigo>
+      <linha_original>172101211 ESTATÍSTICA 17.21.01.220 Estatística.</linha_original>
+    </item>
+    <item>
+      <codigo>17.21.01.110</codigo>
+      <linha_original>172101113 ESTATÍSTICO 17.21.01.110 Estatística.</linha_original>
+    </item>
+    <item>
+      <codigo>17.21.01.220</codigo>
+      <linha_original>172102211 ESTATÍSTICA (SOCIEDADE PROFISSIONAL) 17.21.01.220 Estatística.</linha_original>
+    </item>
+    <item>
+      <codigo>17.22.01.220</codigo>
+      <linha_original>172201211 COBRANÇA EM GERAL 17.22.01.220 Cobrança em geral.</linha_original>
+    </item>
+    <item>
+      <codigo>17.22.01.210</codigo>
+      <linha_original>172601216 COBRADOR(A) DE DÍVIDAS 17.22.01.210 Cobrança em geral.</linha_original>
+    </item>
+    <item>
+      <codigo>17.22.01.110</codigo>
+      <linha_original>172201112 COBRADOR 17.22.01.110 Cobrança em geral.</linha_original>
+    </item>
+    <item>
+      <codigo>20.01.01.220</codigo>
+      <linha_original>200101211 FERROPORTUÁRIOS, UTILIZAÇÃO DE 20.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>20.03.01.210</codigo>
+      <linha_original>200401217 CARREGADOR (VEÍCULOS INDEPENDENTE) 20.03.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>21.01.01.220</codigo>
+      <linha_original>210101111 REGISTRADORES, TABELIÃES E NOTÁRIOS 21.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>22.01.01.220</codigo>
+      <linha_original>220102217 EXPLORAÇÃO DE RODOVIAS 22.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>23.01.01.220</codigo>
+      <linha_original>230101217 PROGRAMAÇÃO E COMUNICAÇÃO VISUAL 23.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>23.01.02.220</codigo>
+      <linha_original>230102216 DESENHO INDUSTRIAL E CONGÊNERES 23.01.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>24.01.01.220</codigo>
+      <linha_original>240101216 CHAVEIRO (EMPRESA) 24.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>24.01.01.220</codigo>
+      <linha_original>240102215 CONFECÇÃO DE CARIMBOS 24.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>24.01.01.210</codigo>
+      <linha_original>240201215 CHAVEIRO(A) 24.01.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>24.01.01.210</codigo>
+      <linha_original>240401213 GRAVADOR(A) DE CARIMBOS 24.01.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>24.01.01.110</codigo>
+      <linha_original>240101118 CHAVEIRO (AUTÔNOMO) 24.01.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>25.01.01.220</codigo>
+      <linha_original>250101215 AGÊNCIA FUNERÁRIA 25.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>25.01.01.220</codigo>
+      <linha_original>250103213 TAXIDERMIA 25.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>25.01.01.220</codigo>
+      <linha_original>250104212 TRANSPORTE DE CORPO CADAVÉRICO 25.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>25.01.01.220</codigo>
+      <linha_original>250105211 DESEMBARAÇO DE CERTIDÃO DE ÓBITO 25.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>25.01.01.210</codigo>
+      <linha_original>250701219 AGENTE FUNERÁRIO 25.01.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>25.01.01.111</codigo>
+      <linha_original>250101117 AGENTE FUNERÁRIO 25.01.01.111</linha_original>
+    </item>
+    <item>
+      <codigo>25.01.01.110</codigo>
+      <linha_original>250102116 TAXIDERMISTA 25.01.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>25.02.01.220</codigo>
+      <linha_original>250202213 TRANSLADO INTRAMUNICIPAL 25.02.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>25.03.01.110</codigo>
+      <linha_original>250301115 CORRETOR DE PLANOS FUNERÁRIOS 25.03.01.110 Planos ou convênio funerários.</linha_original>
+    </item>
+    <item>
+      <codigo>26.01.01.220</codigo>
+      <linha_original>260102213 CORREIO( INCLUSIVE FRANQUIAS ) 26.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>26.01.01.210</codigo>
+      <linha_original>260301212 BIKEBOY (CICLISTA MENSAGEIRO) 26.01.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>26.01.01.210</codigo>
+      <linha_original>260302211 MOTOBOY 26.01.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>26.01.01.210</codigo>
+      <linha_original>260401211 ENTREGADOR DE MALOTES 26.01.01.210</linha_original>
+    </item>
+    <item>
+      <codigo>26.01.01.110</codigo>
+      <linha_original>260101116 MENSAGEIRO 26.01.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>26.01.02.220</codigo>
+      <linha_original>260103212 COURRIER E CONGÊNERES 26.01.02.220 Serviços de courrier e congêneres.</linha_original>
+    </item>
+    <item>
+      <codigo>27.01.01.220</codigo>
+      <linha_original>270101213 ASSISTÊNCIA SOCIAL 27.01.01.220 Serviços de assistência social.</linha_original>
+    </item>
+    <item>
+      <codigo>27.01.01.220</codigo>
+      <linha_original>270102212 CUIDADOS A IDOSOS 27.01.01.220 Serviços de assistência social.</linha_original>
+    </item>
+    <item>
+      <codigo>27.01.01.111</codigo>
+      <linha_original>270101115 ASSISTENTE SOCIAL 27.01.01.111 Serviços de assistência social.</linha_original>
+    </item>
+    <item>
+      <codigo>27.01.01.110</codigo>
+      <linha_original>270102114 CUIDADOR DE IDOSOS 27.01.01.110 Serviços de assistência social.</linha_original>
+    </item>
+    <item>
+      <codigo>28.01.01.220</codigo>
+      <linha_original>280101212 AVALIAÇÃO DE BENS E SERVIÇOS 28.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>28.01.01.110</codigo>
+      <linha_original>280101114 AVALIADOR 28.01.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>29.01.01.220</codigo>
+      <linha_original>290101211 BIBLIOTECONOMIA 29.01.01.220 Serviços de biblioteconomia.</linha_original>
+    </item>
+    <item>
+      <codigo>29.01.01.110</codigo>
+      <linha_original>290101113 BIBLIOTECONOMISTA 29.01.01.110 Serviços de biblioteconomia.</linha_original>
+    </item>
+    <item>
+      <codigo>30.01.01.220</codigo>
+      <linha_original>300101218 BIOLOGIA 30.01.01.220 Serviços de biologia e biotecnologia.</linha_original>
+    </item>
+    <item>
+      <codigo>30.01.01.220</codigo>
+      <linha_original>300102217 BIOTECNOLOGIA 30.01.01.220 Serviços de biologia e biotecnologia.</linha_original>
+    </item>
+    <item>
+      <codigo>30.01.01.110</codigo>
+      <linha_original>300101111 BIÓLOGO 30.01.01.110 Serviços de biologia e biotecnologia.</linha_original>
+    </item>
+    <item>
+      <codigo>30.01.01.110</codigo>
+      <linha_original>300102119 BIOTÉCNICO 30.01.01.110 Serviços de biologia e biotecnologia.</linha_original>
+    </item>
+    <item>
+      <codigo>30.01.02.220</codigo>
+      <linha_original>300103216 SERVIÇOS QUÍMICOS 30.01.02.220 Serviços de química.</linha_original>
+    </item>
+    <item>
+      <codigo>30.01.02.110</codigo>
+      <linha_original>300103118 QUÍMICO 30.01.02.110 Serviços de química.</linha_original>
+    </item>
+    <item>
+      <codigo>31.01.01.220</codigo>
+      <linha_original>310102216 SERVIÇO TÉCNICO EM EDIFICAÇÃO 31.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>31.01.01.110</codigo>
+      <linha_original>310101119 TÉCNICO EM EDIFICAÇÃO 31.01.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>31.01.02.220</codigo>
+      <linha_original>310103215 SERVIÇO TÉCNICO EM ELETRÔNICA 31.01.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>31.01.02.220</codigo>
+      <linha_original>310104214 SERVIÇO TÉCNICO EM ELETROTÉCNICA 31.01.02.220</linha_original>
+    </item>
+    <item>
+      <codigo>31.01.02.110</codigo>
+      <linha_original>310102118 TÉCNICO EM ELETRÔNICA 31.01.02.110</linha_original>
+    </item>
+    <item>
+      <codigo>31.01.02.110</codigo>
+      <linha_original>310103117 TÉCNICO EM ELETROTÉCNICA 31.01.02.110</linha_original>
+    </item>
+    <item>
+      <codigo>31.01.03.220</codigo>
+      <linha_original>310105213 SERVIÇO TÉCNICO EM REFRIGERAÇÃO 31.01.03.220</linha_original>
+    </item>
+    <item>
+      <codigo>31.01.03.220</codigo>
+      <linha_original>310106212 SERVIÇO TÉCNICO EM MECÂNICA 31.01.03.220</linha_original>
+    </item>
+    <item>
+      <codigo>31.01.03.111</codigo>
+      <linha_original>310104116 TÉCNICO EM MECÂNICA 31.01.03.111</linha_original>
+    </item>
+    <item>
+      <codigo>31.01.03.110</codigo>
+      <linha_original>310106114 TÉCNICO EM REFRIGERAÇÃO 31.01.03.110</linha_original>
+    </item>
+    <item>
+      <codigo>31.01.04.220</codigo>
+      <linha_original>310101217 SERVIÇO TÉCNICO EM TELECOMUNICAÇÃO 31.01.04.220</linha_original>
+    </item>
+    <item>
+      <codigo>31.01.04.110</codigo>
+      <linha_original>310105115 TÉCNICO EM TELECOMUNICAÇÕES 31.01.04.110</linha_original>
+    </item>
+    <item>
+      <codigo>32.01.01.220</codigo>
+      <linha_original>320101216 DESENHOS TÉCNICOS 32.01.01.220 Serviços de desenhos técnicos.</linha_original>
+    </item>
+    <item>
+      <codigo>32.01.01.110</codigo>
+      <linha_original>320101118 DESENHISTA TÉCNICO 32.01.01.110 Serviços de desenhos técnicos.</linha_original>
+    </item>
+    <item>
+      <codigo>33.01.01.220</codigo>
+      <linha_original>330101215 DESEMBARAÇO ADUANEIRO 33.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>33.01.01.220</codigo>
+      <linha_original>330102214 COMISSÁRIOS ADUANEIROS 33.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>33.01.01.220</codigo>
+      <linha_original>330103213 DESPACHO ADUANEIRO 33.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>33.01.01.220</codigo>
+      <linha_original>330104212 DESPACHANTE 33.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>33.01.01.110</codigo>
+      <linha_original>330101117 DESPACHANTE ADUANEIRO 33.01.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>33.01.01.110</codigo>
+      <linha_original>330102116 DESPACHANTE (TRABALHO PESSOAL) 33.01.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>34.01.01.110</codigo>
+      <linha_original>340101116 DETETIVE 34.01.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>34.01.01.110</codigo>
+      <linha_original>340102115 INVESTIGADOR PARTICULAR 34.01.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>35.01.01.220</codigo>
+      <linha_original>350101213 REPORTAGEM 35.01.01.220 Serviços de reportagem e jornalismo.</linha_original>
+    </item>
+    <item>
+      <codigo>35.01.01.220</codigo>
+      <linha_original>350103211 JORNALISMO 35.01.01.220 Serviços de reportagem e jornalismo.</linha_original>
+    </item>
+    <item>
+      <codigo>35.01.01.111</codigo>
+      <linha_original>350101115 REPÓRTER 35.01.01.111 Serviços de reportagem e jornalismo.</linha_original>
+    </item>
+    <item>
+      <codigo>35.01.01.110</codigo>
+      <linha_original>350102114 JORNALISTA 35.01.01.110 Serviços de reportagem e jornalismo.</linha_original>
+    </item>
+    <item>
+      <codigo>35.01.02.220</codigo>
+      <linha_original>350102212 ASSESSORIA DE IMPRENSA 35.01.02.220 Serviços de assessoria de imprensa.</linha_original>
+    </item>
+    <item>
+      <codigo>35.01.03.220</codigo>
+      <linha_original>350104211 RELAÇÕES PÚBLICAS 35.01.03.220 Serviços de relações públicas.</linha_original>
+    </item>
+    <item>
+      <codigo>35.01.03.110</codigo>
+      <linha_original>350103113 RELAÇÕES PÚBLICAS ( AUTÔNOMO ) 35.01.03.110 Serviços de relações públicas.</linha_original>
+    </item>
+    <item>
+      <codigo>36.01.01.220</codigo>
+      <linha_original>360101212 METEOROLOGIA 36.01.01.220 Serviços de meteorologia.</linha_original>
+    </item>
+    <item>
+      <codigo>36.01.01.110</codigo>
+      <linha_original>360101114 METEOROLOGISTA 36.01.01.110 Serviços de meteorologia.</linha_original>
+    </item>
+    <item>
+      <codigo>37.01.01.220</codigo>
+      <linha_original>370101211 SERVICOS ARTÍSTICOS 37.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>37.01.01.220</codigo>
+      <linha_original>370102211 SERVIÇOS ATLÉTICOS 37.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>37.01.01.220</codigo>
+      <linha_original>370103219 MODELOS E MANEQUINS 37.01.01.220</linha_original>
+    </item>
+    <item>
+      <codigo>37.01.01.111</codigo>
+      <linha_original>370101113 ARTISTA 37.01.01.111</linha_original>
+    </item>
+    <item>
+      <codigo>37.01.01.110</codigo>
+      <linha_original>370102112 ATLETA 37.01.01.110</linha_original>
+    </item>
+    <item>
+      <codigo>37.01.01.111</codigo>
+      <linha_original>370103111 MODELO 37.01.01.111</linha_original>
+    </item>
+    <item>
+      <codigo>37.01.01.111</codigo>
+      <linha_original>370104111 MANEQUIM 37.01.01.111</linha_original>
+    </item>
+    <item>
+      <codigo>38.01.01.220</codigo>
+      <linha_original>380101211 MUSEOLOGIA 38.01.01.220 Serviços de museologia.</linha_original>
+    </item>
+    <item>
+      <codigo>38.01.01.110</codigo>
+      <linha_original>380101112 MUSEÓLOGO 38.01.01.110 Serviços de museologia.</linha_original>
+    </item>
+    <item>
+      <codigo>39.01.01.210</codigo>
+      <linha_original>145401214 OURIVES 39.01.01.210 (quando o material for fornecido pelo</linha_original>
+    </item>
+    <item>
+      <codigo>39.01.01.210</codigo>
+      <linha_original>390201218 LAPIDADOR(A) 39.01.01.210 (quando o material for fornecido pelo</linha_original>
+    </item>
+    <item>
+      <codigo>39.01.01.110</codigo>
+      <linha_original>390101111 OURIVEDES 39.01.01.110 (quando o material for fornecido pelo</linha_original>
+    </item>
+    <item>
+      <codigo>39.01.01.110</codigo>
+      <linha_original>390102111 LAPIDÁRIO 39.01.01.110 (quando o material for fornecido pelo</linha_original>
+    </item>
+    <item>
+      <codigo>40.01.01.220</codigo>
+      <linha_original>400101216 OBRAS DE ARTE SOB ENCOMENDA 40.01.01.220 Obras de arte sob encomenda.</linha_original>
+    </item>
+    <item>
+      <codigo>40.01.01.110</codigo>
+      <linha_original>400101118 ARTESÃO 40.01.01.110 Obras de arte sob encomenda.</linha_original>
+    </item>
+    <item>
+      <codigo>40.01.01.111</codigo>
+      <linha_original>400102117 ARTISTA PLÁSTICO 40.01.01.111 Obras de arte sob encomenda.</linha_original>
+    </item>
+    <item>
+      <codigo>40.01.01.210</codigo>
+      <linha_original>400201215 ARTESÃO(Ã) EM LOUÇAS, VIDRO E CRISTAL 40.01.01.210 Obras de arte sob encomenda.</linha_original>
+    </item>
+  </novo_codigos>
+</lista_de_para_barueri>
